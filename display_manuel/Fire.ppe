@@ -1,0 +1,50 @@
+<?xml version = "1.0"?>
+<?pyignition version = "1.000000"?>
+
+<effect>
+	<source>
+		<pos>(300, 500)</pos>
+		<initspeed>0.050000</initspeed>
+		<initdirection>0.000000</initdirection>
+		<initspeedrandrange>1.000000</initspeedrandrange>
+		<initdirectionrandrange>0.500000</initdirectionrandrange>
+		<particlesperframe>10</particlesperframe>
+		<particlelife>100</particlelife>
+		<genspacing>0</genspacing>
+		<drawtype>circle</drawtype>
+		<colour>(255, 200, 100, 150)</colour>
+		<radius>3.000000</radius>
+		<length>0.000000</length>
+		<imagepath>None</imagepath>
+		<keyframes>
+		</keyframes>
+		<particlekeyframes>
+			<keyframe frame = "10">
+				<colour_r>16</colour_r>
+				<length>None</length>
+				<interpolationtype>linear</interpolationtype>
+				<radius>4.0</radius>
+				<colour_a>150</colour_a>
+				<colour_b>92</colour_b>
+				<colour_g>190</colour_g>
+			</keyframe>
+		</particlekeyframes>
+	</source>
+
+	<directedgravity>
+		<strength>0.100000</strength>
+		<strengthrandrange>0.000000</strengthrandrange>
+		<direction>(0.000000, -1.000000)</direction>
+		<keyframes>
+		</keyframes>
+	</directedgravity>
+
+	<directedgravity>
+		<strength>0.010000</strength>
+		<strengthrandrange>0.000000</strengthrandrange>
+		<direction>(-1.000000, 0.000000)</direction>
+		<keyframes>
+		</keyframes>
+	</directedgravity>
+
+</effect>
