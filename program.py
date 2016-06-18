@@ -23,6 +23,7 @@ import random
 import datetime
 import time
 from pprint import pprint
+import OSC
 
 import pykinect
 from pykinect import nui
@@ -38,6 +39,8 @@ KINECTEVENT = pygame.USEREVENT
 DEPTH_WINSIZE = 800,600
 VIDEO_WINSIZE = 640,480
 pygame.init()
+
+c = OSC.OSCClient()
 
 SMOOTH_PARAMS_SMOOTHING = 0.7
 SMOOTH_PARAMS_CORRECTION = 0.4
@@ -65,6 +68,26 @@ movement = open('log.txt','w')
 def draw_skeleton_data(pSkelton, index, position, width = 2):
 
     handPos = skeleton_to_depth_image(pSkelton.SkeletonPositions[position],dispInfo.current_w,dispInfo.current_w)
+
+    if position == JointId.HandRight:
+        oscmsg.append('1')
+    else:
+        oscmsg.append('0')
+
+    oscmsg.append(handPos[0])
+    oscmsg.append(handPos[1])
+
+
+    #xDummy = random.randrange(0,DEPTH_WINSIZE[0])
+    #yDummy = random.randrange(0,DEPTH_WINSIZE[1])
+
+    #print str(xDummy) + " " + str(yDummy)#
+
+    #oscmsg.append(random.randrange(0,DEPTH_WINSIZE[0]))
+    #oscmsg.append(random.randrange(0,DEPTH_WINSIZE[1]))
+
+    c.send(oscmsg)
+    oscmsg.clearData()
 
     log_hand_pos(int(handPos[0]),int(handPos[1]),position)
 
@@ -137,6 +160,10 @@ if __name__ == '__main__':
     draw_skeleton = True
     video_display = False
 
+    c.connect(('10.100.29.119', 57120))   # localhost, port 57120
+    oscmsg = OSC.OSCMessage()
+    oscmsg.setAddress("/startup")
+
     screen_lock = thread.allocate()
 
     screen = pygame.display.set_mode(DEPTH_WINSIZE,0,16)
@@ -146,7 +173,7 @@ if __name__ == '__main__':
 
     kinect = nui.Runtime()
     kinect.skeleton_engine.enabled = True
-    
+
     def post_frame(frame):
         try:
             pygame.event.post(pygame.event.Event(KINECTEVENT, skeletons = frame.SkeletonData))
@@ -179,8 +206,7 @@ if __name__ == '__main__':
             break
         elif e.type == KINECTEVENT:
             #kinect._nui.NuiTransformSmooth(e.skeletom_frame,SMOOTH_PARAMS)
-            #kinect._nui.NuiTransformSmooth(e.skeleton_frame, SMOOTH_PARAMS)
-            e.skeletons.frames
+            #kinect._nui.NuiTransformSmooth(e.skeleton_frame, SMOOTH_PARAMS
             #print str(e.skeletom_frame)
             skeletons = e.skeletons
             if draw_skeleton:
