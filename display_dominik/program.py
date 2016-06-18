@@ -38,35 +38,48 @@ import PyIgnition, sys, random
 hippieColorPalette = [(253,0,255),(253,255,0),(0,255,56),(0,249,255),(60,0,255)];
 neonColorPalette = [(255,240,1),(253,25,153),(153,252,32),(0,230,254),(161,14,236)];
 
+framerate = 0
+sourceCount = 0
+effectCount = 0
+backColour, DEPTH_WINSIZE = (0,0)
+colorPalette = []
+effects = []
+sources = []
+
+surf1 = None
+surf2 = None
+screen = None
+clock = None
+
 def GetRandomColor():
 	return (random.randrange(0, 255), random.randrange(0, 255), random.randrange(0, 255));
-	
+
 def GetColorFromPalette(index, palette):
 	if index == -1:
 		return palette[random.randrange(0,len(palette))];
 	else:
 		if index >= 0 and index < len(palette):
 			return palette[index]
-	
-colorPalette, framerate, sourceCount, effectCount, backColour, screenSize, screen, clock, surf1, surf2, effects, sources;
-		
+
+
+
 def InitializeOutput():
 	colorPalette = neonColorPalette;
 	framerate = 30;
 	sourceCount = 1;
 	effectCount = 2;
 	backColour = (0, 0, 0)
-	screenSize = (800, 600)
+	DEPTH_WINSIZE = (800, 600)
 
-	screen = pygame.display.set_mode(screenSize)
+	screen = pygame.display.set_mode(DEPTH_WINSIZE)
 	pygame.display.set_caption("Body Lights!")
 	clock = pygame.time.Clock()
 
-	surf1 = pygame.Surface(screenSize)
+	surf1 = pygame.Surface(DEPTH_WINSIZE)
 	surf1.fill(backColour)
 	surf1.set_colorkey(backColour)
 
-	surf2 = pygame.Surface(screenSize)
+	surf2 = pygame.Surface(DEPTH_WINSIZE)
 	surf2.fill(backColour)
 	surf2.set_colorkey(backColour)
 
@@ -80,12 +93,12 @@ def InitializeOutput():
 		curSurf = surf1;
 		if(i % 2 == 0):
 			curSurf = surf2;
-		
-		effect = PyIgnition.ParticleEffect(curSurf, (0, 0), screenSize)
+
+		effect = PyIgnition.ParticleEffect(curSurf, (0, 0), DEPTH_WINSIZE)
 		gravity = effect.CreateDirectedGravity(strength = 0.0, direction = [0.01, 0])
 		wind = effect.CreateDirectedGravity(strength = 0.0, direction = [0.01, 0])
 		effects.append(effect);
-	
+
 		for i in range (0, sourceCount):
 			source = effect.CreateSource((300, 500), initspeed = 2.0, initdirection = 0.0, initspeedrandrange = 0.0, initdirectionrandrange = 0.0, particlesperframe = 5, particlelife = 50, drawtype = PyIgnition.DRAWTYPE_CIRCLE, colour = (255, 200, 100), radius = 3.0)
 			color1 = GetColorFromPalette(-1, colorPalette)
@@ -98,40 +111,37 @@ def InitializeOutput():
 			sources.append(source)
 
 def UpdateOutput(pos1, pos2):
-	screen.fill(backColour)
 
-	index = 0;
-	while True:
-		for event in pygame.event.get():
-			if event.type == pygame.QUIT:
-				sys.exit()
-				
+	for event in pygame.event.get():
+		if event.type == pygame.QUIT:
+			sys.exit()
+
 	#for i in range(0, sourceCount):
-	#	sources[i].SetPos(pygame.mouse.get_pos())	
+	#	sources[i].SetPos(pygame.mouse.get_pos())
 	#	if sources[0].curframe % framerate == 0:
-	#		sources[i].ConsolidateKeyframes()	
+	#		sources[i].ConsolidateKeyframes()
 	#		if(i == index):
 	#			index = index + 1;
 	#			if(index == sourceCount):
 	#				index = 0;
 	#				break
-	
+
 	sources[0].SetPos(pos1)
 	sources[1].SetPos(pos2)
-		
+
 	#for i in range(0, effectCount):
 	effects[0].Update()
 	effects[0].Redraw()
 	effects[1].Update()
 	effects[1].Redraw()
-	
-	screen.blit(surf1, (0,0,screenSize[0],screenSize[1]))
-	screen.blit(surf2, (0,0,screenSize[0],screenSize[1]))
+
+	screen.blit(surf1, (0,0,DEPTH_WINSIZE[0],DEPTH_WINSIZE[1]))
+	screen.blit(surf2, (0,0,DEPTH_WINSIZE[0],DEPTH_WINSIZE[1]))
 	pygame.display.flip()
 	pygame.display.update()
-	
+
 	clock.tick(framerate)
-			
+
 KINECTEVENT = pygame.USEREVENT
 DEPTH_WINSIZE = 800,600
 VIDEO_WINSIZE = 640,480
@@ -219,16 +229,13 @@ def surface_to_array(surface):
    bytes.object = buffer_interface
    return bytes
 
-def get_draw_data(pSkelton):
-	posLeft, posRight;
-	
+def  get_skeleton_data(pSkelton):
 	handLeft = skeleton_to_depth_image(pSkelton.SkeletonPositions[JointId.HandLeft],dispInfo.current_w,dispInfo.current_w)
 	posLeft = (int(handLeft[0]), int(handLeft[1]));
 	handRight = skeleton_to_depth_image(pSkelton.SkeletonPositions[JointId.HandRight],dispInfo.current_w,dispInfo.current_w);
 	posRight = (int(handRight[0]), int(handRight[1]));
-    handPos = skeleton_to_depth_image(pSkelton.SkeletonPositions[position],dispInfo.current_w,dispInfo.current_w)
-  
-  	return posLeft, posRight;
+
+	return posLeft, posRight;
 
 def draw_skeletons(skeletons):
     for index, data in enumerate(skeletons):
@@ -305,10 +312,9 @@ if __name__ == '__main__':
     print('     u - Increase elevation angle')
     print('     j - Decrease elevation angle')
 
-    # main game loop
-    done = False
-
-    while not done:
+	done = False
+	screen.fill(backColour)
+	while not done:
         e = pygame.event.wait()
         dispInfo = pygame.display.Info()
         if e.type == pygame.QUIT:
