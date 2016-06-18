@@ -153,7 +153,7 @@ def log_hand_pos(hand_x, hand_y, position):
     # We have some frames where we don't get the x,y coords, we'll just ignore those
     if(hand_x != 0 and hand_y != 0):
         ts = time.clock()
-        movement.write("Time: " +  str(ts) +  "Hand: " + str(position) + " X-coord: " + str(hand_x) + " Y-coord: " + str(hand_y))
+        movement.write("Time: " +  str(ts) +  " Hand: " + str(position) + " X-coord: " + str(hand_x) + " Y-coord: " + str(hand_y))
         movement.write("\n")
 
 if __name__ == '__main__':
