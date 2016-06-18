@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Time: 3.95061104101e-07 Hand: <JointId.HandRight (11)> X-coord: 561 Y-coord: 289
 Time: 6.47900210726e-05 Hand: <JointId.HandLeft (7)> X-coord: 249 Y-coord: 684
 Time: 0.0203697455886 Hand: <JointId.HandRight (11)> X-coord: 561 Y-coord: 289
@@ -1168,3 +1169,5 @@ Time: 16.1569305174 Hand: <JointId.HandRight (11)> X-coord: 538 Y-coord: 590
 Time: 16.1569747643 Hand: <JointId.HandLeft (7)> X-coord: 135 Y-coord: 494
 Time: 16.1646745052 Hand: <JointId.HandRight (11)> X-coord: 539 Y-coord: 506
 Time: 16.1647270483 Hand: <JointId.HandLeft (7)> X-coord: 126 Y-coord: 566
+=======
+>>>>>>> f0d79cf6c37d5e2552f8811968a3b31bfa7a7688

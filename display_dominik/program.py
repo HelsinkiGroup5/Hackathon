@@ -22,7 +22,6 @@ import ctypes
 import random
 import datetime
 import time
-from pprint import pprint
 
 import pykinect
 from pykinect import nui
@@ -34,10 +33,120 @@ import pygame
 from pygame.color import THECOLORS
 from pygame.locals import *
 
+import PyIgnition, sys, random
+
+hippieColorPalette = [(253,0,255),(253,255,0),(0,255,56),(0,249,255),(60,0,255)];
+neonColorPalette = [(255,240,1),(253,25,153),(153,252,32),(0,230,254),(161,14,236)];
+
+framerate = 0
+sourceCount = 0
+effectCount = 0
+backColour, DEPTH_WINSIZE = (0,0)
+colorPalette = []
+effects = []
+sources = []
+
+surf1 = None
+surf2 = None
+screen = None
+clock = None
+
+def GetRandomColor():
+	return (random.randrange(0, 255), random.randrange(0, 255), random.randrange(0, 255));
+
+def GetColorFromPalette(index, palette):
+	if index == -1:
+		return palette[random.randrange(0,len(palette))];
+	else:
+		if index >= 0 and index < len(palette):
+			return palette[index]
+
+
+
+def InitializeOutput():
+	colorPalette = neonColorPalette;
+	framerate = 30;
+	sourceCount = 1;
+	effectCount = 2;
+	backColour = (0, 0, 0)
+	DEPTH_WINSIZE = (800, 600)
+
+	screen = pygame.display.set_mode(DEPTH_WINSIZE)
+	pygame.display.set_caption("Body Lights!")
+	clock = pygame.time.Clock()
+
+	surf1 = pygame.Surface(DEPTH_WINSIZE)
+	surf1.fill(backColour)
+	surf1.set_colorkey(backColour)
+
+	surf2 = pygame.Surface(DEPTH_WINSIZE)
+	surf2.fill(backColour)
+	surf2.set_colorkey(backColour)
+
+	surf1.set_alpha(150)
+	surf2.set_alpha(150)
+
+	effects = []
+	sources = []
+
+	for i in range (0, effectCount):
+		curSurf = surf1;
+		if(i % 2 == 0):
+			curSurf = surf2;
+
+		effect = PyIgnition.ParticleEffect(curSurf, (0, 0), DEPTH_WINSIZE)
+		gravity = effect.CreateDirectedGravity(strength = 0.0, direction = [0.01, 0])
+		wind = effect.CreateDirectedGravity(strength = 0.0, direction = [0.01, 0])
+		effects.append(effect);
+
+		for i in range (0, sourceCount):
+			source = effect.CreateSource((300, 500), initspeed = 2.0, initdirection = 0.0, initspeedrandrange = 0.0, initdirectionrandrange = 0.0, particlesperframe = 5, particlelife = 50, drawtype = PyIgnition.DRAWTYPE_CIRCLE, colour = (255, 200, 100), radius = 3.0)
+			color1 = GetColorFromPalette(-1, colorPalette)
+			source.CreateParticleKeyframe(10, colour = color1, radius = 16.0)
+			color2 = GetColorFromPalette(-1, colorPalette)
+			source.CreateParticleKeyframe(30, colour = color2, radius = 24.0)
+			color3 = GetColorFromPalette(-1, colorPalette)
+			source.CreateParticleKeyframe(60, colour = color3, radius = 80.0)
+			source.CreateParticleKeyframe(80, colour = backColour, radius = 200.0)
+			sources.append(source)
+
+def UpdateOutput(pos1, pos2):
+
+	for event in pygame.event.get():
+		if event.type == pygame.QUIT:
+			sys.exit()
+
+	#for i in range(0, sourceCount):
+	#	sources[i].SetPos(pygame.mouse.get_pos())
+	#	if sources[0].curframe % framerate == 0:
+	#		sources[i].ConsolidateKeyframes()
+	#		if(i == index):
+	#			index = index + 1;
+	#			if(index == sourceCount):
+	#				index = 0;
+	#				break
+
+	sources[0].SetPos(pos1)
+	sources[1].SetPos(pos2)
+
+	#for i in range(0, effectCount):
+	effects[0].Update()
+	effects[0].Redraw()
+	effects[1].Update()
+	effects[1].Redraw()
+
+	screen.blit(surf1, (0,0,DEPTH_WINSIZE[0],DEPTH_WINSIZE[1]))
+	screen.blit(surf2, (0,0,DEPTH_WINSIZE[0],DEPTH_WINSIZE[1]))
+	pygame.display.flip()
+	pygame.display.update()
+
+	clock.tick(framerate)
+
 KINECTEVENT = pygame.USEREVENT
 DEPTH_WINSIZE = 800,600
 VIDEO_WINSIZE = 640,480
 pygame.init()
+InitializeOutput();
 
 SMOOTH_PARAMS_SMOOTHING = 0.7
 SMOOTH_PARAMS_CORRECTION = 0.4
@@ -57,6 +166,31 @@ SKELETON_COLORS = [THECOLORS["red"],
                    THECOLORS["purple"],
                    THECOLORS["yellow"],
                    THECOLORS["violet"]]
+
+LEFT_ARM = (JointId.ShoulderCenter,
+            JointId.ShoulderLeft,
+            JointId.ElbowLeft,
+            JointId.WristLeft,
+            JointId.HandLeft)
+RIGHT_ARM = (JointId.ShoulderCenter,
+             JointId.ShoulderRight,
+             JointId.ElbowRight,
+             JointId.WristRight,
+             JointId.HandRight)
+LEFT_LEG = (JointId.HipCenter,
+            JointId.HipLeft,
+            JointId.KneeLeft,
+            JointId.AnkleLeft,
+            JointId.FootLeft)
+RIGHT_LEG = (JointId.HipCenter,
+             JointId.HipRight,
+             JointId.KneeRight,
+             JointId.AnkleRight,
+             JointId.FootRight)
+SPINE = (JointId.HipCenter,
+         JointId.Spine,
+         JointId.ShoulderCenter,
+         JointId.Head)
 
 skeleton_to_depth_image = nui.SkeletonEngine.skeleton_to_depth_image
 
@@ -94,6 +228,14 @@ def surface_to_array(surface):
    bytes = (ctypes.c_byte * size.value).from_address(address.value)
    bytes.object = buffer_interface
    return bytes
+
+def  get_skeleton_data(pSkelton):
+	handLeft = skeleton_to_depth_image(pSkelton.SkeletonPositions[JointId.HandLeft],dispInfo.current_w,dispInfo.current_w)
+	posLeft = (int(handLeft[0]), int(handLeft[1]));
+	handRight = skeleton_to_depth_image(pSkelton.SkeletonPositions[JointId.HandRight],dispInfo.current_w,dispInfo.current_w);
+	posRight = (int(handRight[0]), int(handRight[1]));
+
+	return posLeft, posRight;
 
 def draw_skeletons(skeletons):
     for index, data in enumerate(skeletons):
@@ -146,7 +288,6 @@ if __name__ == '__main__':
 
     kinect = nui.Runtime()
     kinect.skeleton_engine.enabled = True
-    
     def post_frame(frame):
         try:
             pygame.event.post(pygame.event.Event(KINECTEVENT, skeletons = frame.SkeletonData))
@@ -165,13 +306,15 @@ if __name__ == '__main__':
     print len(SKELETON_COLORS)
 
     print('Controls: ')
+    print('     d - Switch to depth view')
+    print('     v - Switch to video view')
+    print('     s - Toggle displaing of the skeleton')
     print('     u - Increase elevation angle')
     print('     j - Decrease elevation angle')
 
-    # main game loop
-    done = False
-
-    while not done:
+	done = False
+	screen.fill(backColour)
+	while not done:
         e = pygame.event.wait()
         dispInfo = pygame.display.Info()
         if e.type == pygame.QUIT:
@@ -179,17 +322,24 @@ if __name__ == '__main__':
             break
         elif e.type == KINECTEVENT:
             #kinect._nui.NuiTransformSmooth(e.skeletom_frame,SMOOTH_PARAMS)
-            #kinect._nui.NuiTransformSmooth(e.skeleton_frame, SMOOTH_PARAMS)
-            e.skeletons.frames
-            #print str(e.skeletom_frame)
             skeletons = e.skeletons
             if draw_skeleton:
-                draw_skeletons(skeletons)
-                pygame.display.update()
+                pos1, pos2 = get_skeleton_data(skeletons[0])
+                UpdateOutput(pos1, pos2);
         elif e.type == KEYDOWN:
             if e.key == K_ESCAPE:
                 done = True
                 break
+            elif e.key == K_d:
+                with screen_lock:
+                    screen = pygame.display.set_mode(DEPTH_WINSIZE,0,16)
+                    video_display = False
+            elif e.key == K_v:
+                with screen_lock:
+                    screen = pygame.display.set_mode(VIDEO_WINSIZE,0,32)
+                    video_display = True
+            elif e.key == K_s:
+                draw_skeleton = not draw_skeleton
             elif e.key == K_u:
                 kinect.camera.elevation_angle = kinect.camera.elevation_angle + 2
             elif e.key == K_j:
