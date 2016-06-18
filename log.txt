@@ -1,514 +1,1170 @@
-Hand: <JointId.HandRight (11)> X-coord: 527 Y-coord: 306
-Hand: <JointId.HandLeft (7)> X-coord: 304 Y-coord: 435
-Hand: <JointId.HandRight (11)> X-coord: 527 Y-coord: 306
-Hand: <JointId.HandLeft (7)> X-coord: 304 Y-coord: 435
-Hand: <JointId.HandRight (11)> X-coord: 525 Y-coord: 294
-Hand: <JointId.HandLeft (7)> X-coord: 299 Y-coord: 447
-Hand: <JointId.HandRight (11)> X-coord: 525 Y-coord: 294
-Hand: <JointId.HandLeft (7)> X-coord: 299 Y-coord: 447
-Hand: <JointId.HandRight (11)> X-coord: 525 Y-coord: 290
-Hand: <JointId.HandLeft (7)> X-coord: 297 Y-coord: 449
-Hand: <JointId.HandRight (11)> X-coord: 525 Y-coord: 290
-Hand: <JointId.HandLeft (7)> X-coord: 297 Y-coord: 449
-Hand: <JointId.HandRight (11)> X-coord: 526 Y-coord: 308
-Hand: <JointId.HandLeft (7)> X-coord: 292 Y-coord: 454
-Hand: <JointId.HandRight (11)> X-coord: 526 Y-coord: 308
-Hand: <JointId.HandLeft (7)> X-coord: 292 Y-coord: 454
-Hand: <JointId.HandRight (11)> X-coord: 522 Y-coord: 311
-Hand: <JointId.HandLeft (7)> X-coord: 287 Y-coord: 456
-Hand: <JointId.HandRight (11)> X-coord: 522 Y-coord: 311
-Hand: <JointId.HandLeft (7)> X-coord: 287 Y-coord: 456
-Hand: <JointId.HandRight (11)> X-coord: 522 Y-coord: 310
-Hand: <JointId.HandLeft (7)> X-coord: 287 Y-coord: 456
-Hand: <JointId.HandRight (11)> X-coord: 522 Y-coord: 310
-Hand: <JointId.HandLeft (7)> X-coord: 287 Y-coord: 456
-Hand: <JointId.HandRight (11)> X-coord: 522 Y-coord: 310
-Hand: <JointId.HandLeft (7)> X-coord: 288 Y-coord: 453
-Hand: <JointId.HandRight (11)> X-coord: 522 Y-coord: 310
-Hand: <JointId.HandLeft (7)> X-coord: 288 Y-coord: 453
-Hand: <JointId.HandRight (11)> X-coord: 522 Y-coord: 311
-Hand: <JointId.HandLeft (7)> X-coord: 288 Y-coord: 452
-Hand: <JointId.HandRight (11)> X-coord: 522 Y-coord: 311
-Hand: <JointId.HandLeft (7)> X-coord: 288 Y-coord: 452
-Hand: <JointId.HandRight (11)> X-coord: 522 Y-coord: 311
-Hand: <JointId.HandLeft (7)> X-coord: 288 Y-coord: 450
-Hand: <JointId.HandRight (11)> X-coord: 522 Y-coord: 311
-Hand: <JointId.HandLeft (7)> X-coord: 288 Y-coord: 450
-Hand: <JointId.HandRight (11)> X-coord: 522 Y-coord: 311
-Hand: <JointId.HandLeft (7)> X-coord: 288 Y-coord: 445
-Hand: <JointId.HandRight (11)> X-coord: 522 Y-coord: 311
-Hand: <JointId.HandLeft (7)> X-coord: 288 Y-coord: 445
-Hand: <JointId.HandRight (11)> X-coord: 522 Y-coord: 311
-Hand: <JointId.HandLeft (7)> X-coord: 288 Y-coord: 444
-Hand: <JointId.HandRight (11)> X-coord: 522 Y-coord: 311
-Hand: <JointId.HandLeft (7)> X-coord: 288 Y-coord: 444
-Hand: <JointId.HandRight (11)> X-coord: 522 Y-coord: 313
-Hand: <JointId.HandLeft (7)> X-coord: 283 Y-coord: 417
-Hand: <JointId.HandRight (11)> X-coord: 522 Y-coord: 313
-Hand: <JointId.HandLeft (7)> X-coord: 283 Y-coord: 417
-Hand: <JointId.HandRight (11)> X-coord: 520 Y-coord: 321
-Hand: <JointId.HandLeft (7)> X-coord: 281 Y-coord: 410
-Hand: <JointId.HandRight (11)> X-coord: 520 Y-coord: 321
-Hand: <JointId.HandLeft (7)> X-coord: 281 Y-coord: 410
-Hand: <JointId.HandRight (11)> X-coord: 514 Y-coord: 324
-Hand: <JointId.HandLeft (7)> X-coord: 298 Y-coord: 383
-Hand: <JointId.HandRight (11)> X-coord: 514 Y-coord: 324
-Hand: <JointId.HandLeft (7)> X-coord: 298 Y-coord: 383
-Hand: <JointId.HandRight (11)> X-coord: 520 Y-coord: 347
-Hand: <JointId.HandLeft (7)> X-coord: 293 Y-coord: 352
-Hand: <JointId.HandRight (11)> X-coord: 520 Y-coord: 347
-Hand: <JointId.HandLeft (7)> X-coord: 293 Y-coord: 352
-Hand: <JointId.HandRight (11)> X-coord: 529 Y-coord: 348
-Hand: <JointId.HandLeft (7)> X-coord: 294 Y-coord: 335
-Hand: <JointId.HandRight (11)> X-coord: 529 Y-coord: 348
-Hand: <JointId.HandLeft (7)> X-coord: 294 Y-coord: 335
-Hand: <JointId.HandRight (11)> X-coord: 539 Y-coord: 358
-Hand: <JointId.HandLeft (7)> X-coord: 310 Y-coord: 350
-Hand: <JointId.HandRight (11)> X-coord: 539 Y-coord: 358
-Hand: <JointId.HandLeft (7)> X-coord: 310 Y-coord: 350
-Hand: <JointId.HandRight (11)> X-coord: 541 Y-coord: 357
-Hand: <JointId.HandLeft (7)> X-coord: 311 Y-coord: 351
-Hand: <JointId.HandRight (11)> X-coord: 541 Y-coord: 357
-Hand: <JointId.HandLeft (7)> X-coord: 311 Y-coord: 351
-Hand: <JointId.HandRight (11)> X-coord: 541 Y-coord: 358
-Hand: <JointId.HandLeft (7)> X-coord: 313 Y-coord: 335
-Hand: <JointId.HandRight (11)> X-coord: 541 Y-coord: 358
-Hand: <JointId.HandLeft (7)> X-coord: 313 Y-coord: 335
-Hand: <JointId.HandRight (11)> X-coord: 571 Y-coord: 304
-Hand: <JointId.HandLeft (7)> X-coord: 275 Y-coord: 334
-Hand: <JointId.HandRight (11)> X-coord: 571 Y-coord: 304
-Hand: <JointId.HandLeft (7)> X-coord: 275 Y-coord: 334
-Hand: <JointId.HandRight (11)> X-coord: 572 Y-coord: 288
-Hand: <JointId.HandLeft (7)> X-coord: 277 Y-coord: 354
-Hand: <JointId.HandRight (11)> X-coord: 572 Y-coord: 288
-Hand: <JointId.HandLeft (7)> X-coord: 277 Y-coord: 354
-Hand: <JointId.HandRight (11)> X-coord: 549 Y-coord: 285
-Hand: <JointId.HandLeft (7)> X-coord: 260 Y-coord: 372
-Hand: <JointId.HandRight (11)> X-coord: 549 Y-coord: 285
-Hand: <JointId.HandLeft (7)> X-coord: 260 Y-coord: 372
-Hand: <JointId.HandRight (11)> X-coord: 543 Y-coord: 277
-Hand: <JointId.HandLeft (7)> X-coord: 269 Y-coord: 385
-Hand: <JointId.HandRight (11)> X-coord: 543 Y-coord: 277
-Hand: <JointId.HandLeft (7)> X-coord: 269 Y-coord: 385
-Hand: <JointId.HandRight (11)> X-coord: 519 Y-coord: 283
-Hand: <JointId.HandLeft (7)> X-coord: 275 Y-coord: 405
-Hand: <JointId.HandRight (11)> X-coord: 519 Y-coord: 283
-Hand: <JointId.HandLeft (7)> X-coord: 275 Y-coord: 405
-Hand: <JointId.HandRight (11)> X-coord: 503 Y-coord: 271
-Hand: <JointId.HandLeft (7)> X-coord: 254 Y-coord: 414
-Hand: <JointId.HandRight (11)> X-coord: 503 Y-coord: 271
-Hand: <JointId.HandLeft (7)> X-coord: 254 Y-coord: 414
-Hand: <JointId.HandRight (11)> X-coord: 474 Y-coord: 283
-Hand: <JointId.HandLeft (7)> X-coord: 270 Y-coord: 427
-Hand: <JointId.HandRight (11)> X-coord: 474 Y-coord: 283
-Hand: <JointId.HandLeft (7)> X-coord: 270 Y-coord: 427
-Hand: <JointId.HandRight (11)> X-coord: 473 Y-coord: 283
-Hand: <JointId.HandLeft (7)> X-coord: 269 Y-coord: 425
-Hand: <JointId.HandRight (11)> X-coord: 473 Y-coord: 283
-Hand: <JointId.HandLeft (7)> X-coord: 269 Y-coord: 425
-Hand: <JointId.HandRight (11)> X-coord: 472 Y-coord: 280
-Hand: <JointId.HandLeft (7)> X-coord: 250 Y-coord: 414
-Hand: <JointId.HandRight (11)> X-coord: 472 Y-coord: 280
-Hand: <JointId.HandLeft (7)> X-coord: 250 Y-coord: 414
-Hand: <JointId.HandRight (11)> X-coord: 474 Y-coord: 279
-Hand: <JointId.HandLeft (7)> X-coord: 222 Y-coord: 404
-Hand: <JointId.HandRight (11)> X-coord: 474 Y-coord: 279
-Hand: <JointId.HandLeft (7)> X-coord: 222 Y-coord: 404
-Hand: <JointId.HandRight (11)> X-coord: 490 Y-coord: 255
-Hand: <JointId.HandLeft (7)> X-coord: 255 Y-coord: 388
-Hand: <JointId.HandRight (11)> X-coord: 490 Y-coord: 255
-Hand: <JointId.HandLeft (7)> X-coord: 255 Y-coord: 388
-Hand: <JointId.HandRight (11)> X-coord: 498 Y-coord: 275
-Hand: <JointId.HandLeft (7)> X-coord: 246 Y-coord: 370
-Hand: <JointId.HandRight (11)> X-coord: 498 Y-coord: 275
-Hand: <JointId.HandLeft (7)> X-coord: 246 Y-coord: 370
-Hand: <JointId.HandRight (11)> X-coord: 503 Y-coord: 276
-Hand: <JointId.HandLeft (7)> X-coord: 258 Y-coord: 363
-Hand: <JointId.HandRight (11)> X-coord: 503 Y-coord: 276
-Hand: <JointId.HandLeft (7)> X-coord: 258 Y-coord: 363
-Hand: <JointId.HandRight (11)> X-coord: 508 Y-coord: 322
-Hand: <JointId.HandLeft (7)> X-coord: 286 Y-coord: 353
-Hand: <JointId.HandRight (11)> X-coord: 508 Y-coord: 322
-Hand: <JointId.HandLeft (7)> X-coord: 286 Y-coord: 353
-Hand: <JointId.HandRight (11)> X-coord: 510 Y-coord: 297
-Hand: <JointId.HandLeft (7)> X-coord: 294 Y-coord: 315
-Hand: <JointId.HandRight (11)> X-coord: 510 Y-coord: 297
-Hand: <JointId.HandLeft (7)> X-coord: 294 Y-coord: 315
-Hand: <JointId.HandRight (11)> X-coord: 513 Y-coord: 292
-Hand: <JointId.HandLeft (7)> X-coord: 288 Y-coord: 298
-Hand: <JointId.HandRight (11)> X-coord: 513 Y-coord: 292
-Hand: <JointId.HandLeft (7)> X-coord: 288 Y-coord: 298
-Hand: <JointId.HandRight (11)> X-coord: 508 Y-coord: 289
-Hand: <JointId.HandLeft (7)> X-coord: 285 Y-coord: 298
-Hand: <JointId.HandRight (11)> X-coord: 508 Y-coord: 289
-Hand: <JointId.HandLeft (7)> X-coord: 285 Y-coord: 298
-Hand: <JointId.HandRight (11)> X-coord: 489 Y-coord: 280
-Hand: <JointId.HandLeft (7)> X-coord: 282 Y-coord: 298
-Hand: <JointId.HandRight (11)> X-coord: 489 Y-coord: 280
-Hand: <JointId.HandLeft (7)> X-coord: 282 Y-coord: 298
-Hand: <JointId.HandRight (11)> X-coord: 485 Y-coord: 290
-Hand: <JointId.HandLeft (7)> X-coord: 272 Y-coord: 300
-Hand: <JointId.HandRight (11)> X-coord: 485 Y-coord: 290
-Hand: <JointId.HandLeft (7)> X-coord: 272 Y-coord: 300
-Hand: <JointId.HandRight (11)> X-coord: 471 Y-coord: 269
-Hand: <JointId.HandLeft (7)> X-coord: 265 Y-coord: 310
-Hand: <JointId.HandRight (11)> X-coord: 471 Y-coord: 269
-Hand: <JointId.HandLeft (7)> X-coord: 265 Y-coord: 310
-Hand: <JointId.HandRight (11)> X-coord: 453 Y-coord: 276
-Hand: <JointId.HandLeft (7)> X-coord: 282 Y-coord: 324
-Hand: <JointId.HandRight (11)> X-coord: 453 Y-coord: 276
-Hand: <JointId.HandLeft (7)> X-coord: 282 Y-coord: 324
-Hand: <JointId.HandRight (11)> X-coord: 451 Y-coord: 280
-Hand: <JointId.HandLeft (7)> X-coord: 282 Y-coord: 327
-Hand: <JointId.HandRight (11)> X-coord: 451 Y-coord: 280
-Hand: <JointId.HandLeft (7)> X-coord: 282 Y-coord: 327
-Hand: <JointId.HandRight (11)> X-coord: 520 Y-coord: 289
-Hand: <JointId.HandLeft (7)> X-coord: 306 Y-coord: 294
-Hand: <JointId.HandRight (11)> X-coord: 520 Y-coord: 289
-Hand: <JointId.HandLeft (7)> X-coord: 306 Y-coord: 294
-Hand: <JointId.HandRight (11)> X-coord: 522 Y-coord: 303
-Hand: <JointId.HandLeft (7)> X-coord: 310 Y-coord: 296
-Hand: <JointId.HandRight (11)> X-coord: 522 Y-coord: 303
-Hand: <JointId.HandLeft (7)> X-coord: 310 Y-coord: 296
-Hand: <JointId.HandRight (11)> X-coord: 529 Y-coord: 312
-Hand: <JointId.HandLeft (7)> X-coord: 309 Y-coord: 312
-Hand: <JointId.HandRight (11)> X-coord: 529 Y-coord: 312
-Hand: <JointId.HandLeft (7)> X-coord: 309 Y-coord: 312
-Hand: <JointId.HandRight (11)> X-coord: 530 Y-coord: 312
-Hand: <JointId.HandLeft (7)> X-coord: 305 Y-coord: 333
-Hand: <JointId.HandRight (11)> X-coord: 530 Y-coord: 312
-Hand: <JointId.HandLeft (7)> X-coord: 305 Y-coord: 333
-Hand: <JointId.HandRight (11)> X-coord: 514 Y-coord: 323
-Hand: <JointId.HandLeft (7)> X-coord: 313 Y-coord: 306
-Hand: <JointId.HandRight (11)> X-coord: 514 Y-coord: 323
-Hand: <JointId.HandLeft (7)> X-coord: 313 Y-coord: 306
-Hand: <JointId.HandRight (11)> X-coord: 529 Y-coord: 314
-Hand: <JointId.HandLeft (7)> X-coord: 311 Y-coord: 299
-Hand: <JointId.HandRight (11)> X-coord: 529 Y-coord: 314
-Hand: <JointId.HandLeft (7)> X-coord: 311 Y-coord: 299
-Hand: <JointId.HandRight (11)> X-coord: 511 Y-coord: 308
-Hand: <JointId.HandLeft (7)> X-coord: 300 Y-coord: 292
-Hand: <JointId.HandRight (11)> X-coord: 511 Y-coord: 308
-Hand: <JointId.HandLeft (7)> X-coord: 300 Y-coord: 292
-Hand: <JointId.HandRight (11)> X-coord: 511 Y-coord: 304
-Hand: <JointId.HandLeft (7)> X-coord: 294 Y-coord: 294
-Hand: <JointId.HandRight (11)> X-coord: 511 Y-coord: 304
-Hand: <JointId.HandLeft (7)> X-coord: 294 Y-coord: 294
-Hand: <JointId.HandRight (11)> X-coord: 499 Y-coord: 299
-Hand: <JointId.HandLeft (7)> X-coord: 289 Y-coord: 297
-Hand: <JointId.HandRight (11)> X-coord: 499 Y-coord: 299
-Hand: <JointId.HandLeft (7)> X-coord: 289 Y-coord: 297
-Hand: <JointId.HandRight (11)> X-coord: 490 Y-coord: 287
-Hand: <JointId.HandLeft (7)> X-coord: 290 Y-coord: 301
-Hand: <JointId.HandRight (11)> X-coord: 490 Y-coord: 287
-Hand: <JointId.HandLeft (7)> X-coord: 290 Y-coord: 301
-Hand: <JointId.HandRight (11)> X-coord: 489 Y-coord: 287
-Hand: <JointId.HandLeft (7)> X-coord: 292 Y-coord: 300
-Hand: <JointId.HandRight (11)> X-coord: 489 Y-coord: 287
-Hand: <JointId.HandLeft (7)> X-coord: 292 Y-coord: 300
-Hand: <JointId.HandRight (11)> X-coord: 491 Y-coord: 287
-Hand: <JointId.HandLeft (7)> X-coord: 298 Y-coord: 285
-Hand: <JointId.HandRight (11)> X-coord: 491 Y-coord: 287
-Hand: <JointId.HandLeft (7)> X-coord: 298 Y-coord: 285
-Hand: <JointId.HandRight (11)> X-coord: 496 Y-coord: 294
-Hand: <JointId.HandLeft (7)> X-coord: 303 Y-coord: 280
-Hand: <JointId.HandRight (11)> X-coord: 496 Y-coord: 294
-Hand: <JointId.HandLeft (7)> X-coord: 303 Y-coord: 280
-Hand: <JointId.HandRight (11)> X-coord: 502 Y-coord: 303
-Hand: <JointId.HandLeft (7)> X-coord: 334 Y-coord: 286
-Hand: <JointId.HandRight (11)> X-coord: 502 Y-coord: 303
-Hand: <JointId.HandLeft (7)> X-coord: 334 Y-coord: 286
-Hand: <JointId.HandRight (11)> X-coord: 508 Y-coord: 302
-Hand: <JointId.HandLeft (7)> X-coord: 323 Y-coord: 293
-Hand: <JointId.HandRight (11)> X-coord: 508 Y-coord: 302
-Hand: <JointId.HandLeft (7)> X-coord: 323 Y-coord: 293
-Hand: <JointId.HandRight (11)> X-coord: 506 Y-coord: 299
-Hand: <JointId.HandLeft (7)> X-coord: 305 Y-coord: 295
-Hand: <JointId.HandRight (11)> X-coord: 506 Y-coord: 299
-Hand: <JointId.HandLeft (7)> X-coord: 305 Y-coord: 295
-Hand: <JointId.HandRight (11)> X-coord: 499 Y-coord: 288
-Hand: <JointId.HandLeft (7)> X-coord: 296 Y-coord: 293
-Hand: <JointId.HandRight (11)> X-coord: 499 Y-coord: 288
-Hand: <JointId.HandLeft (7)> X-coord: 296 Y-coord: 293
-Hand: <JointId.HandRight (11)> X-coord: 495 Y-coord: 281
-Hand: <JointId.HandLeft (7)> X-coord: 285 Y-coord: 291
-Hand: <JointId.HandRight (11)> X-coord: 495 Y-coord: 281
-Hand: <JointId.HandLeft (7)> X-coord: 285 Y-coord: 291
-Hand: <JointId.HandRight (11)> X-coord: 488 Y-coord: 285
-Hand: <JointId.HandLeft (7)> X-coord: 277 Y-coord: 298
-Hand: <JointId.HandRight (11)> X-coord: 488 Y-coord: 285
-Hand: <JointId.HandLeft (7)> X-coord: 277 Y-coord: 298
-Hand: <JointId.HandRight (11)> X-coord: 482 Y-coord: 281
-Hand: <JointId.HandLeft (7)> X-coord: 276 Y-coord: 304
-Hand: <JointId.HandRight (11)> X-coord: 482 Y-coord: 281
-Hand: <JointId.HandLeft (7)> X-coord: 276 Y-coord: 304
-Hand: <JointId.HandRight (11)> X-coord: 480 Y-coord: 283
-Hand: <JointId.HandLeft (7)> X-coord: 289 Y-coord: 298
-Hand: <JointId.HandRight (11)> X-coord: 480 Y-coord: 283
-Hand: <JointId.HandLeft (7)> X-coord: 289 Y-coord: 298
-Hand: <JointId.HandRight (11)> X-coord: 473 Y-coord: 291
-Hand: <JointId.HandLeft (7)> X-coord: 289 Y-coord: 298
-Hand: <JointId.HandRight (11)> X-coord: 473 Y-coord: 291
-Hand: <JointId.HandLeft (7)> X-coord: 289 Y-coord: 298
-Hand: <JointId.HandRight (11)> X-coord: 488 Y-coord: 293
-Hand: <JointId.HandLeft (7)> X-coord: 290 Y-coord: 293
-Hand: <JointId.HandRight (11)> X-coord: 488 Y-coord: 293
-Hand: <JointId.HandLeft (7)> X-coord: 290 Y-coord: 293
-Hand: <JointId.HandRight (11)> X-coord: 511 Y-coord: 284
-Hand: <JointId.HandLeft (7)> X-coord: 312 Y-coord: 282
-Hand: <JointId.HandRight (11)> X-coord: 511 Y-coord: 284
-Hand: <JointId.HandLeft (7)> X-coord: 312 Y-coord: 282
-Hand: <JointId.HandRight (11)> X-coord: 509 Y-coord: 288
-Hand: <JointId.HandLeft (7)> X-coord: 308 Y-coord: 277
-Hand: <JointId.HandRight (11)> X-coord: 509 Y-coord: 288
-Hand: <JointId.HandLeft (7)> X-coord: 308 Y-coord: 277
-Hand: <JointId.HandRight (11)> X-coord: 491 Y-coord: 277
-Hand: <JointId.HandLeft (7)> X-coord: 309 Y-coord: 281
-Hand: <JointId.HandRight (11)> X-coord: 491 Y-coord: 277
-Hand: <JointId.HandLeft (7)> X-coord: 309 Y-coord: 281
-Hand: <JointId.HandRight (11)> X-coord: 492 Y-coord: 275
-Hand: <JointId.HandLeft (7)> X-coord: 292 Y-coord: 278
-Hand: <JointId.HandRight (11)> X-coord: 492 Y-coord: 275
-Hand: <JointId.HandLeft (7)> X-coord: 292 Y-coord: 278
-Hand: <JointId.HandRight (11)> X-coord: 470 Y-coord: 279
-Hand: <JointId.HandLeft (7)> X-coord: 281 Y-coord: 271
-Hand: <JointId.HandRight (11)> X-coord: 470 Y-coord: 279
-Hand: <JointId.HandLeft (7)> X-coord: 281 Y-coord: 271
-Hand: <JointId.HandRight (11)> X-coord: 469 Y-coord: 254
-Hand: <JointId.HandLeft (7)> X-coord: 272 Y-coord: 272
-Hand: <JointId.HandRight (11)> X-coord: 469 Y-coord: 254
-Hand: <JointId.HandLeft (7)> X-coord: 272 Y-coord: 272
-Hand: <JointId.HandRight (11)> X-coord: 458 Y-coord: 257
-Hand: <JointId.HandLeft (7)> X-coord: 272 Y-coord: 273
-Hand: <JointId.HandRight (11)> X-coord: 458 Y-coord: 257
-Hand: <JointId.HandLeft (7)> X-coord: 272 Y-coord: 273
-Hand: <JointId.HandRight (11)> X-coord: 460 Y-coord: 267
-Hand: <JointId.HandLeft (7)> X-coord: 280 Y-coord: 255
-Hand: <JointId.HandRight (11)> X-coord: 460 Y-coord: 267
-Hand: <JointId.HandLeft (7)> X-coord: 280 Y-coord: 255
-Hand: <JointId.HandRight (11)> X-coord: 486 Y-coord: 250
-Hand: <JointId.HandLeft (7)> X-coord: 285 Y-coord: 266
-Hand: <JointId.HandRight (11)> X-coord: 486 Y-coord: 250
-Hand: <JointId.HandLeft (7)> X-coord: 285 Y-coord: 266
-Hand: <JointId.HandRight (11)> X-coord: 509 Y-coord: 241
-Hand: <JointId.HandLeft (7)> X-coord: 265 Y-coord: 255
-Hand: <JointId.HandRight (11)> X-coord: 509 Y-coord: 241
-Hand: <JointId.HandLeft (7)> X-coord: 265 Y-coord: 255
-Hand: <JointId.HandRight (11)> X-coord: 490 Y-coord: 232
-Hand: <JointId.HandLeft (7)> X-coord: 263 Y-coord: 255
-Hand: <JointId.HandRight (11)> X-coord: 490 Y-coord: 232
-Hand: <JointId.HandLeft (7)> X-coord: 263 Y-coord: 255
-Hand: <JointId.HandRight (11)> X-coord: 470 Y-coord: 240
-Hand: <JointId.HandLeft (7)> X-coord: 261 Y-coord: 265
-Hand: <JointId.HandRight (11)> X-coord: 470 Y-coord: 240
-Hand: <JointId.HandLeft (7)> X-coord: 261 Y-coord: 265
-Hand: <JointId.HandRight (11)> X-coord: 471 Y-coord: 229
-Hand: <JointId.HandLeft (7)> X-coord: 260 Y-coord: 267
-Hand: <JointId.HandRight (11)> X-coord: 471 Y-coord: 229
-Hand: <JointId.HandLeft (7)> X-coord: 260 Y-coord: 267
-Hand: <JointId.HandRight (11)> X-coord: 465 Y-coord: 239
-Hand: <JointId.HandLeft (7)> X-coord: 261 Y-coord: 260
-Hand: <JointId.HandRight (11)> X-coord: 465 Y-coord: 239
-Hand: <JointId.HandLeft (7)> X-coord: 261 Y-coord: 260
-Hand: <JointId.HandRight (11)> X-coord: 470 Y-coord: 238
-Hand: <JointId.HandLeft (7)> X-coord: 262 Y-coord: 247
-Hand: <JointId.HandRight (11)> X-coord: 470 Y-coord: 238
-Hand: <JointId.HandLeft (7)> X-coord: 262 Y-coord: 247
-Hand: <JointId.HandRight (11)> X-coord: 479 Y-coord: 237
-Hand: <JointId.HandLeft (7)> X-coord: 268 Y-coord: 252
-Hand: <JointId.HandRight (11)> X-coord: 479 Y-coord: 237
-Hand: <JointId.HandLeft (7)> X-coord: 268 Y-coord: 252
-Hand: <JointId.HandRight (11)> X-coord: 485 Y-coord: 235
-Hand: <JointId.HandLeft (7)> X-coord: 272 Y-coord: 223
-Hand: <JointId.HandRight (11)> X-coord: 485 Y-coord: 235
-Hand: <JointId.HandLeft (7)> X-coord: 272 Y-coord: 223
-Hand: <JointId.HandRight (11)> X-coord: 499 Y-coord: 239
-Hand: <JointId.HandLeft (7)> X-coord: 282 Y-coord: 225
-Hand: <JointId.HandRight (11)> X-coord: 499 Y-coord: 239
-Hand: <JointId.HandLeft (7)> X-coord: 282 Y-coord: 225
-Hand: <JointId.HandRight (11)> X-coord: 503 Y-coord: 230
-Hand: <JointId.HandLeft (7)> X-coord: 273 Y-coord: 229
-Hand: <JointId.HandRight (11)> X-coord: 503 Y-coord: 230
-Hand: <JointId.HandLeft (7)> X-coord: 273 Y-coord: 229
-Hand: <JointId.HandRight (11)> X-coord: 469 Y-coord: 233
-Hand: <JointId.HandLeft (7)> X-coord: 260 Y-coord: 231
-Hand: <JointId.HandRight (11)> X-coord: 469 Y-coord: 233
-Hand: <JointId.HandLeft (7)> X-coord: 260 Y-coord: 231
-Hand: <JointId.HandRight (11)> X-coord: 457 Y-coord: 230
-Hand: <JointId.HandLeft (7)> X-coord: 256 Y-coord: 233
-Hand: <JointId.HandRight (11)> X-coord: 457 Y-coord: 230
-Hand: <JointId.HandLeft (7)> X-coord: 256 Y-coord: 233
-Hand: <JointId.HandRight (11)> X-coord: 481 Y-coord: 182
-Hand: <JointId.HandLeft (7)> X-coord: 241 Y-coord: 218
-Hand: <JointId.HandRight (11)> X-coord: 481 Y-coord: 182
-Hand: <JointId.HandLeft (7)> X-coord: 241 Y-coord: 218
-Hand: <JointId.HandRight (11)> X-coord: 467 Y-coord: 203
-Hand: <JointId.HandLeft (7)> X-coord: 241 Y-coord: 218
-Hand: <JointId.HandRight (11)> X-coord: 467 Y-coord: 203
-Hand: <JointId.HandLeft (7)> X-coord: 241 Y-coord: 218
-Hand: <JointId.HandRight (11)> X-coord: 457 Y-coord: 188
-Hand: <JointId.HandLeft (7)> X-coord: 239 Y-coord: 234
-Hand: <JointId.HandRight (11)> X-coord: 457 Y-coord: 188
-Hand: <JointId.HandLeft (7)> X-coord: 239 Y-coord: 234
-Hand: <JointId.HandRight (11)> X-coord: 456 Y-coord: 190
-Hand: <JointId.HandLeft (7)> X-coord: 242 Y-coord: 233
-Hand: <JointId.HandRight (11)> X-coord: 456 Y-coord: 190
-Hand: <JointId.HandLeft (7)> X-coord: 242 Y-coord: 233
-Hand: <JointId.HandRight (11)> X-coord: 447 Y-coord: 183
-Hand: <JointId.HandLeft (7)> X-coord: 246 Y-coord: 257
-Hand: <JointId.HandRight (11)> X-coord: 447 Y-coord: 183
-Hand: <JointId.HandLeft (7)> X-coord: 246 Y-coord: 257
-Hand: <JointId.HandRight (11)> X-coord: 471 Y-coord: 215
-Hand: <JointId.HandLeft (7)> X-coord: 256 Y-coord: 282
-Hand: <JointId.HandRight (11)> X-coord: 471 Y-coord: 215
-Hand: <JointId.HandLeft (7)> X-coord: 256 Y-coord: 282
-Hand: <JointId.HandRight (11)> X-coord: 501 Y-coord: 282
-Hand: <JointId.HandLeft (7)> X-coord: 196 Y-coord: 409
-Hand: <JointId.HandRight (11)> X-coord: 501 Y-coord: 282
-Hand: <JointId.HandLeft (7)> X-coord: 196 Y-coord: 409
-Hand: <JointId.HandRight (11)> X-coord: 515 Y-coord: 336
-Hand: <JointId.HandLeft (7)> X-coord: 167 Y-coord: 468
-Hand: <JointId.HandRight (11)> X-coord: 515 Y-coord: 336
-Hand: <JointId.HandLeft (7)> X-coord: 167 Y-coord: 468
-Hand: <JointId.HandRight (11)> X-coord: 521 Y-coord: 403
-Hand: <JointId.HandLeft (7)> X-coord: 135 Y-coord: 563
-Hand: <JointId.HandRight (11)> X-coord: 521 Y-coord: 403
-Hand: <JointId.HandLeft (7)> X-coord: 135 Y-coord: 563
-Hand: <JointId.HandRight (11)> X-coord: 526 Y-coord: 516
-Hand: <JointId.HandLeft (7)> X-coord: 111 Y-coord: 732
-Hand: <JointId.HandRight (11)> X-coord: 526 Y-coord: 516
-Hand: <JointId.HandLeft (7)> X-coord: 111 Y-coord: 732
-Hand: <JointId.HandRight (11)> X-coord: 490 Y-coord: 648
-Hand: <JointId.HandLeft (7)> X-coord: 149 Y-coord: 737
-Hand: <JointId.HandRight (11)> X-coord: 490 Y-coord: 648
-Hand: <JointId.HandLeft (7)> X-coord: 149 Y-coord: 737
-Hand: <JointId.HandRight (11)> X-coord: 443 Y-coord: 688
-Hand: <JointId.HandLeft (7)> X-coord: 169 Y-coord: 717
-Hand: <JointId.HandRight (11)> X-coord: 443 Y-coord: 688
-Hand: <JointId.HandLeft (7)> X-coord: 169 Y-coord: 717
-Hand: <JointId.HandRight (11)> X-coord: 384 Y-coord: 720
-Hand: <JointId.HandLeft (7)> X-coord: 176 Y-coord: 711
-Hand: <JointId.HandRight (11)> X-coord: 384 Y-coord: 720
-Hand: <JointId.HandLeft (7)> X-coord: 176 Y-coord: 711
-Hand: <JointId.HandRight (11)> X-coord: 359 Y-coord: 689
-Hand: <JointId.HandLeft (7)> X-coord: 179 Y-coord: 701
-Hand: <JointId.HandRight (11)> X-coord: 359 Y-coord: 689
-Hand: <JointId.HandLeft (7)> X-coord: 179 Y-coord: 701
-Hand: <JointId.HandRight (11)> X-coord: 314 Y-coord: 670
-Hand: <JointId.HandLeft (7)> X-coord: 154 Y-coord: 667
-Hand: <JointId.HandRight (11)> X-coord: 314 Y-coord: 670
-Hand: <JointId.HandLeft (7)> X-coord: 154 Y-coord: 667
-Hand: <JointId.HandRight (11)> X-coord: 310 Y-coord: 672
-Hand: <JointId.HandLeft (7)> X-coord: 155 Y-coord: 741
-Hand: <JointId.HandRight (11)> X-coord: 310 Y-coord: 672
-Hand: <JointId.HandLeft (7)> X-coord: 155 Y-coord: 741
-Hand: <JointId.HandRight (11)> X-coord: 301 Y-coord: 692
-Hand: <JointId.HandLeft (7)> X-coord: 151 Y-coord: 748
-Hand: <JointId.HandRight (11)> X-coord: 301 Y-coord: 692
-Hand: <JointId.HandLeft (7)> X-coord: 151 Y-coord: 748
-Hand: <JointId.HandRight (11)> X-coord: 302 Y-coord: 647
-Hand: <JointId.HandLeft (7)> X-coord: 140 Y-coord: 712
-Hand: <JointId.HandRight (11)> X-coord: 302 Y-coord: 647
-Hand: <JointId.HandLeft (7)> X-coord: 140 Y-coord: 712
-Hand: <JointId.HandRight (11)> X-coord: 305 Y-coord: 652
-Hand: <JointId.HandLeft (7)> X-coord: 132 Y-coord: 723
-Hand: <JointId.HandRight (11)> X-coord: 305 Y-coord: 652
-Hand: <JointId.HandLeft (7)> X-coord: 132 Y-coord: 723
-Hand: <JointId.HandRight (11)> X-coord: 302 Y-coord: 667
-Hand: <JointId.HandLeft (7)> X-coord: 118 Y-coord: 721
-Hand: <JointId.HandRight (11)> X-coord: 302 Y-coord: 667
-Hand: <JointId.HandLeft (7)> X-coord: 118 Y-coord: 721
-Hand: <JointId.HandRight (11)> X-coord: 312 Y-coord: 681
-Hand: <JointId.HandLeft (7)> X-coord: 110 Y-coord: 716
-Hand: <JointId.HandRight (11)> X-coord: 312 Y-coord: 681
-Hand: <JointId.HandLeft (7)> X-coord: 110 Y-coord: 716
-Hand: <JointId.HandRight (11)> X-coord: 321 Y-coord: 694
-Hand: <JointId.HandLeft (7)> X-coord: 103 Y-coord: 706
-Hand: <JointId.HandRight (11)> X-coord: 321 Y-coord: 694
-Hand: <JointId.HandLeft (7)> X-coord: 103 Y-coord: 706
-Hand: <JointId.HandRight (11)> X-coord: 327 Y-coord: 717
-Hand: <JointId.HandLeft (7)> X-coord: 50 Y-coord: 740
-Hand: <JointId.HandRight (11)> X-coord: 327 Y-coord: 717
-Hand: <JointId.HandLeft (7)> X-coord: 50 Y-coord: 740
-Hand: <JointId.HandRight (11)> X-coord: 335 Y-coord: 740
-Hand: <JointId.HandLeft (7)> X-coord: 22 Y-coord: 732
-Hand: <JointId.HandRight (11)> X-coord: 335 Y-coord: 740
-Hand: <JointId.HandLeft (7)> X-coord: 22 Y-coord: 732
-Hand: <JointId.HandRight (11)> X-coord: 332 Y-coord: 751
-Hand: <JointId.HandLeft (7)> X-coord: 23 Y-coord: 725
-Hand: <JointId.HandRight (11)> X-coord: 332 Y-coord: 751
-Hand: <JointId.HandLeft (7)> X-coord: 23 Y-coord: 725
-Hand: <JointId.HandRight (11)> X-coord: 320 Y-coord: 750
-Hand: <JointId.HandLeft (7)> X-coord: 35 Y-coord: 719
-Hand: <JointId.HandRight (11)> X-coord: 320 Y-coord: 750
-Hand: <JointId.HandLeft (7)> X-coord: 35 Y-coord: 719
-Hand: <JointId.HandRight (11)> X-coord: 307 Y-coord: 758
-Hand: <JointId.HandLeft (7)> X-coord: 32 Y-coord: 758
-Hand: <JointId.HandRight (11)> X-coord: 307 Y-coord: 758
-Hand: <JointId.HandLeft (7)> X-coord: 32 Y-coord: 758
-Hand: <JointId.HandRight (11)> X-coord: 126 Y-coord: 561
-Hand: <JointId.HandLeft (7)> X-coord: -55 Y-coord: 761
-Hand: <JointId.HandRight (11)> X-coord: 126 Y-coord: 561
-Hand: <JointId.HandLeft (7)> X-coord: -55 Y-coord: 761
-Hand: <JointId.HandRight (11)> X-coord: 15 Y-coord: 416
-Hand: <JointId.HandLeft (7)> X-coord: 27 Y-coord: 581
-Hand: <JointId.HandRight (11)> X-coord: 15 Y-coord: 416
-Hand: <JointId.HandLeft (7)> X-coord: 27 Y-coord: 581
-Hand: <JointId.HandRight (11)> X-coord: -19 Y-coord: 366
-Hand: <JointId.HandLeft (7)> X-coord: 19 Y-coord: 580
-Hand: <JointId.HandRight (11)> X-coord: -19 Y-coord: 366
-Hand: <JointId.HandLeft (7)> X-coord: 19 Y-coord: 580
-Hand: <JointId.HandRight (11)> X-coord: -18 Y-coord: 351
-Hand: <JointId.HandLeft (7)> X-coord: 27 Y-coord: 583
-Hand: <JointId.HandRight (11)> X-coord: -18 Y-coord: 351
-Hand: <JointId.HandLeft (7)> X-coord: 27 Y-coord: 583
-Hand: <JointId.HandRight (11)> X-coord: -23 Y-coord: 336
-Hand: <JointId.HandLeft (7)> X-coord: 91 Y-coord: 433
-Hand: <JointId.HandRight (11)> X-coord: -23 Y-coord: 336
-Hand: <JointId.HandLeft (7)> X-coord: 91 Y-coord: 433
-Hand: <JointId.HandRight (11)> X-coord: -30 Y-coord: 344
-Hand: <JointId.HandLeft (7)> X-coord: 88 Y-coord: 433
-Hand: <JointId.HandRight (11)> X-coord: -30 Y-coord: 344
-Hand: <JointId.HandLeft (7)> X-coord: 88 Y-coord: 433
-Hand: <JointId.HandRight (11)> X-coord: -67 Y-coord: 340
-Hand: <JointId.HandLeft (7)> X-coord: 32 Y-coord: 601
-Hand: <JointId.HandRight (11)> X-coord: -67 Y-coord: 340
-Hand: <JointId.HandLeft (7)> X-coord: 32 Y-coord: 601
-Hand: <JointId.HandRight (11)> X-coord: 16 Y-coord: 298
-Hand: <JointId.HandLeft (7)> X-coord: 92 Y-coord: 435
-Hand: <JointId.HandRight (11)> X-coord: 16 Y-coord: 298
-Hand: <JointId.HandLeft (7)> X-coord: 92 Y-coord: 435
-Hand: <JointId.HandRight (11)> X-coord: 53 Y-coord: 346
-Hand: <JointId.HandLeft (7)> X-coord: 121 Y-coord: 401
-Hand: <JointId.HandRight (11)> X-coord: 53 Y-coord: 346
-Hand: <JointId.HandLeft (7)> X-coord: 121 Y-coord: 401
-Hand: <JointId.HandRight (11)> X-coord: 56 Y-coord: 241
-Hand: <JointId.HandLeft (7)> X-coord: 47 Y-coord: 353
-Hand: <JointId.HandRight (11)> X-coord: 56 Y-coord: 241
-Hand: <JointId.HandLeft (7)> X-coord: 47 Y-coord: 353
-Hand: <JointId.HandRight (11)> X-coord: 4 Y-coord: 242
-Hand: <JointId.HandLeft (7)> X-coord: 53 Y-coord: 321
-Hand: <JointId.HandRight (11)> X-coord: 4 Y-coord: 242
-Hand: <JointId.HandLeft (7)> X-coord: 53 Y-coord: 321
-Hand: <JointId.HandRight (11)> X-coord: 4 Y-coord: 242
-Hand: <JointId.HandLeft (7)> X-coord: 53 Y-coord: 321
-Hand: <JointId.HandRight (11)> X-coord: 4 Y-coord: 242
-Hand: <JointId.HandLeft (7)> X-coord: 53 Y-coord: 321
-Hand: <JointId.HandRight (11)> X-coord: 4 Y-coord: 242
-Hand: <JointId.HandLeft (7)> X-coord: 53 Y-coord: 321
-Hand: <JointId.HandRight (11)> X-coord: 4 Y-coord: 242
-Hand: <JointId.HandLeft (7)> X-coord: 53 Y-coord: 321
-Hand: <JointId.HandRight (11)> X-coord: 4 Y-coord: 242
-Hand: <JointId.HandLeft (7)> X-coord: 53 Y-coord: 321
-Hand: <JointId.HandRight (11)> X-coord: 4 Y-coord: 242
-Hand: <JointId.HandLeft (7)> X-coord: 53 Y-coord: 321
-Hand: <JointId.HandRight (11)> X-coord: 4 Y-coord: 242
-Hand: <JointId.HandLeft (7)> X-coord: 53 Y-coord: 321
-Hand: <JointId.HandRight (11)> X-coord: 4 Y-coord: 242
-Hand: <JointId.HandLeft (7)> X-coord: 53 Y-coord: 321
-Hand: <JointId.HandRight (11)> X-coord: 4 Y-coord: 242
-Hand: <JointId.HandLeft (7)> X-coord: 53 Y-coord: 321
-Hand: <JointId.HandRight (11)> X-coord: 4 Y-coord: 242
-Hand: <JointId.HandLeft (7)> X-coord: 53 Y-coord: 321
-Hand: <JointId.HandRight (11)> X-coord: 4 Y-coord: 242
-Hand: <JointId.HandLeft (7)> X-coord: 53 Y-coord: 321
+Time: 3.95061104101e-07Hand: <JointId.HandRight (11)> X-coord: 561 Y-coord: 289
+Time: 6.47900210726e-05Hand: <JointId.HandLeft (7)> X-coord: 249 Y-coord: 684
+Time: 0.0203697455886Hand: <JointId.HandRight (11)> X-coord: 561 Y-coord: 289
+Time: 0.0204060912101Hand: <JointId.HandLeft (7)> X-coord: 249 Y-coord: 684
+Time: 0.022337149887Hand: <JointId.HandRight (11)> X-coord: 563 Y-coord: 278
+Time: 0.0223971991748Hand: <JointId.HandLeft (7)> X-coord: 231 Y-coord: 658
+Time: 0.0546950246795Hand: <JointId.HandRight (11)> X-coord: 563 Y-coord: 278
+Time: 0.0547357159732Hand: <JointId.HandLeft (7)> X-coord: 231 Y-coord: 658
+Time: 0.0651601933271Hand: <JointId.HandRight (11)> X-coord: 598 Y-coord: 318
+Time: 0.0652040451097Hand: <JointId.HandLeft (7)> X-coord: 215 Y-coord: 624
+Time: 0.122724546806Hand: <JointId.HandRight (11)> X-coord: 598 Y-coord: 318
+Time: 0.122761287488Hand: <JointId.HandLeft (7)> X-coord: 215 Y-coord: 624
+Time: 0.128490068559Hand: <JointId.HandRight (11)> X-coord: 618 Y-coord: 360
+Time: 0.128540241319Hand: <JointId.HandLeft (7)> X-coord: 188 Y-coord: 556
+Time: 0.152212697738Hand: <JointId.HandRight (11)> X-coord: 618 Y-coord: 360
+Time: 0.152249833482Hand: <JointId.HandLeft (7)> X-coord: 188 Y-coord: 556
+Time: 0.161147399668Hand: <JointId.HandRight (11)> X-coord: 626 Y-coord: 409
+Time: 0.16119085639Hand: <JointId.HandLeft (7)> X-coord: 182 Y-coord: 510
+Time: 0.253979648032Hand: <JointId.HandRight (11)> X-coord: 626 Y-coord: 409
+Time: 0.254015993654Hand: <JointId.HandLeft (7)> X-coord: 182 Y-coord: 510
+Time: 0.265605901265Hand: <JointId.HandRight (11)> X-coord: 637 Y-coord: 643
+Time: 0.265649357986Hand: <JointId.HandLeft (7)> X-coord: 188 Y-coord: 366
+Time: 0.285605079538Hand: <JointId.HandRight (11)> X-coord: 637 Y-coord: 643
+Time: 0.285641030098Hand: <JointId.HandLeft (7)> X-coord: 188 Y-coord: 366
+Time: 0.288024038678Hand: <JointId.HandRight (11)> X-coord: 606 Y-coord: 685
+Time: 0.288066310216Hand: <JointId.HandLeft (7)> X-coord: 201 Y-coord: 344
+Time: 0.319720976243Hand: <JointId.HandRight (11)> X-coord: 606 Y-coord: 685
+Time: 0.319766803331Hand: <JointId.HandLeft (7)> X-coord: 201 Y-coord: 344
+Time: 0.330838785835Hand: <JointId.HandRight (11)> X-coord: 558 Y-coord: 734
+Time: 0.330896069695Hand: <JointId.HandLeft (7)> X-coord: 215 Y-coord: 314
+Time: 0.353286552831Hand: <JointId.HandRight (11)> X-coord: 558 Y-coord: 734
+Time: 0.353323688575Hand: <JointId.HandLeft (7)> X-coord: 215 Y-coord: 314
+Time: 0.363431721984Hand: <JointId.HandRight (11)> X-coord: 540 Y-coord: 732
+Time: 0.363494931761Hand: <JointId.HandLeft (7)> X-coord: 225 Y-coord: 285
+Time: 0.382839493785Hand: <JointId.HandRight (11)> X-coord: 540 Y-coord: 732
+Time: 0.382874654223Hand: <JointId.HandLeft (7)> X-coord: 225 Y-coord: 285
+Time: 0.385849464337Hand: <JointId.HandRight (11)> X-coord: 532 Y-coord: 733
+Time: 0.385894896364Hand: <JointId.HandLeft (7)> X-coord: 238 Y-coord: 260
+Time: 0.687063408097Hand: <JointId.HandRight (11)> X-coord: 532 Y-coord: 733
+Time: 0.687105284574Hand: <JointId.HandLeft (7)> X-coord: 238 Y-coord: 260
+Time: 0.688822615194Hand: <JointId.HandRight (11)> X-coord: 661 Y-coord: 475
+Time: 0.68888938052Hand: <JointId.HandLeft (7)> X-coord: 220 Y-coord: 323
+Time: 0.989645448462Hand: <JointId.HandRight (11)> X-coord: 661 Y-coord: 475
+Time: 0.989688905183Hand: <JointId.HandLeft (7)> X-coord: 220 Y-coord: 323
+Time: 1.00090034426Hand: <JointId.HandRight (11)> X-coord: 602 Y-coord: 281
+Time: 1.00096908489Hand: <JointId.HandLeft (7)> X-coord: 248 Y-coord: 685
+Time: 1.05714124304Hand: <JointId.HandRight (11)> X-coord: 602 Y-coord: 281
+Time: 1.05718509482Hand: <JointId.HandLeft (7)> X-coord: 248 Y-coord: 685
+Time: 1.06521234139Hand: <JointId.HandRight (11)> X-coord: 627 Y-coord: 298
+Time: 1.0652640944Hand: <JointId.HandLeft (7)> X-coord: 221 Y-coord: 631
+Time: 1.08916292083Hand: <JointId.HandRight (11)> X-coord: 627 Y-coord: 298
+Time: 1.08920756273Hand: <JointId.HandLeft (7)> X-coord: 221 Y-coord: 631
+Time: 1.09812685728Hand: <JointId.HandRight (11)> X-coord: 623 Y-coord: 317
+Time: 1.09818019053Hand: <JointId.HandLeft (7)> X-coord: 200 Y-coord: 599
+Time: 1.12102380875Hand: <JointId.HandRight (11)> X-coord: 623 Y-coord: 317
+Time: 1.12106845066Hand: <JointId.HandLeft (7)> X-coord: 200 Y-coord: 599
+Time: 1.13104374354Hand: <JointId.HandRight (11)> X-coord: 636 Y-coord: 343
+Time: 1.1310958916Hand: <JointId.HandLeft (7)> X-coord: 199 Y-coord: 550
+Time: 1.15836972505Hand: <JointId.HandRight (11)> X-coord: 636 Y-coord: 343
+Time: 1.15841436695Hand: <JointId.HandLeft (7)> X-coord: 199 Y-coord: 550
+Time: 1.16390690148Hand: <JointId.HandRight (11)> X-coord: 644 Y-coord: 368
+Time: 1.1639626051Hand: <JointId.HandLeft (7)> X-coord: 189 Y-coord: 503
+Time: 1.21838029688Hand: <JointId.HandRight (11)> X-coord: 644 Y-coord: 368
+Time: 1.21841506226Hand: <JointId.HandLeft (7)> X-coord: 189 Y-coord: 503
+Time: 1.22793880029Hand: <JointId.HandRight (11)> X-coord: 647 Y-coord: 465
+Time: 1.22799608415Hand: <JointId.HandLeft (7)> X-coord: 186 Y-coord: 377
+Time: 1.25449362253Hand: <JointId.HandRight (11)> X-coord: 647 Y-coord: 465
+Time: 1.25454340023Hand: <JointId.HandLeft (7)> X-coord: 186 Y-coord: 377
+Time: 1.2602935146Hand: <JointId.HandRight (11)> X-coord: 649 Y-coord: 520
+Time: 1.26033539107Hand: <JointId.HandLeft (7)> X-coord: 191 Y-coord: 352
+Time: 1.35495094526Hand: <JointId.HandRight (11)> X-coord: 649 Y-coord: 520
+Time: 1.35498057485Hand: <JointId.HandLeft (7)> X-coord: 191 Y-coord: 352
+Time: 1.36501354665Hand: <JointId.HandRight (11)> X-coord: 602 Y-coord: 716
+Time: 1.36505186757Hand: <JointId.HandLeft (7)> X-coord: 247 Y-coord: 252
+Time: 1.49161482807Hand: <JointId.HandRight (11)> X-coord: 602 Y-coord: 716
+Time: 1.49166105021Hand: <JointId.HandLeft (7)> X-coord: 247 Y-coord: 252
+Time: 1.5011954549Hand: <JointId.HandRight (11)> X-coord: 574 Y-coord: 731
+Time: 1.50123575113Hand: <JointId.HandLeft (7)> X-coord: 298 Y-coord: 237
+Time: 1.52249596445Hand: <JointId.HandRight (11)> X-coord: 574 Y-coord: 731
+Time: 1.52253072983Hand: <JointId.HandLeft (7)> X-coord: 298 Y-coord: 237
+Time: 1.54387509116Hand: <JointId.HandRight (11)> X-coord: 575 Y-coord: 703
+Time: 1.54391894294Hand: <JointId.HandLeft (7)> X-coord: 297 Y-coord: 235
+Time: 1.55461917295Hand: <JointId.HandRight (11)> X-coord: 575 Y-coord: 703
+Time: 1.55465433339Hand: <JointId.HandLeft (7)> X-coord: 297 Y-coord: 235
+Time: 1.56547505703Hand: <JointId.HandRight (11)> X-coord: 616 Y-coord: 670
+Time: 1.56550942734Hand: <JointId.HandLeft (7)> X-coord: 289 Y-coord: 232
+Time: 1.65863441599Hand: <JointId.HandRight (11)> X-coord: 616 Y-coord: 670
+Time: 1.6586687863Hand: <JointId.HandLeft (7)> X-coord: 289 Y-coord: 232
+Time: 1.67010027441Hand: <JointId.HandRight (11)> X-coord: 656 Y-coord: 541
+Time: 1.67016585455Hand: <JointId.HandLeft (7)> X-coord: 237 Y-coord: 202
+Time: 1.69005955151Hand: <JointId.HandRight (11)> X-coord: 656 Y-coord: 541
+Time: 1.69009194652Hand: <JointId.HandLeft (7)> X-coord: 237 Y-coord: 202
+Time: 1.69218932592Hand: <JointId.HandRight (11)> X-coord: 660 Y-coord: 491
+Time: 1.69222685673Hand: <JointId.HandLeft (7)> X-coord: 217 Y-coord: 316
+Time: 1.79128842858Hand: <JointId.HandRight (11)> X-coord: 660 Y-coord: 491
+Time: 1.7913156878Hand: <JointId.HandLeft (7)> X-coord: 217 Y-coord: 316
+Time: 1.79699113562Hand: <JointId.HandRight (11)> X-coord: 645 Y-coord: 333
+Time: 1.79703933307Hand: <JointId.HandLeft (7)> X-coord: 189 Y-coord: 453
+Time: 1.827607186Hand: <JointId.HandRight (11)> X-coord: 645 Y-coord: 333
+Time: 1.82764116126Hand: <JointId.HandLeft (7)> X-coord: 189 Y-coord: 453
+Time: 1.82970891108Hand: <JointId.HandRight (11)> X-coord: 641 Y-coord: 305
+Time: 1.82975078755Hand: <JointId.HandLeft (7)> X-coord: 197 Y-coord: 525
+Time: 1.89004422314Hand: <JointId.HandRight (11)> X-coord: 641 Y-coord: 305
+Time: 1.89007385272Hand: <JointId.HandLeft (7)> X-coord: 197 Y-coord: 525
+Time: 1.89283611996Hand: <JointId.HandRight (11)> X-coord: 588 Y-coord: 249
+Time: 1.89286891003Hand: <JointId.HandLeft (7)> X-coord: 227 Y-coord: 667
+Time: 1.92188022221Hand: <JointId.HandRight (11)> X-coord: 588 Y-coord: 249
+Time: 1.9219098518Hand: <JointId.HandLeft (7)> X-coord: 227 Y-coord: 667
+Time: 1.92492377296Hand: <JointId.HandRight (11)> X-coord: 566 Y-coord: 244
+Time: 1.92503873574Hand: <JointId.HandLeft (7)> X-coord: 269 Y-coord: 709
+Time: 1.95389755433Hand: <JointId.HandRight (11)> X-coord: 566 Y-coord: 244
+Time: 1.95394496167Hand: <JointId.HandLeft (7)> X-coord: 269 Y-coord: 709
+Time: 1.95663493273Hand: <JointId.HandRight (11)> X-coord: 536 Y-coord: 204
+Time: 1.9566890561Hand: <JointId.HandLeft (7)> X-coord: 302 Y-coord: 721
+Time: 1.99003892932Hand: <JointId.HandRight (11)> X-coord: 536 Y-coord: 204
+Time: 1.99007290458Hand: <JointId.HandLeft (7)> X-coord: 302 Y-coord: 721
+Time: 1.99894518685Hand: <JointId.HandRight (11)> X-coord: 504 Y-coord: 201
+Time: 1.99898627321Hand: <JointId.HandLeft (7)> X-coord: 300 Y-coord: 720
+Time: 2.02313477826Hand: <JointId.HandRight (11)> X-coord: 504 Y-coord: 201
+Time: 2.02316875351Hand: <JointId.HandLeft (7)> X-coord: 300 Y-coord: 720
+Time: 2.0315665674Hand: <JointId.HandRight (11)> X-coord: 499 Y-coord: 233
+Time: 2.03162464138Hand: <JointId.HandLeft (7)> X-coord: 298 Y-coord: 717
+Time: 2.21929486334Hand: <JointId.HandRight (11)> X-coord: 499 Y-coord: 233
+Time: 2.21932291267Hand: <JointId.HandLeft (7)> X-coord: 298 Y-coord: 717
+Time: 2.22891262592Hand: <JointId.HandRight (11)> X-coord: 508 Y-coord: 208
+Time: 2.22894778635Hand: <JointId.HandLeft (7)> X-coord: 181 Y-coord: 586
+Time: 2.25445253617Hand: <JointId.HandRight (11)> X-coord: 508 Y-coord: 208
+Time: 2.25448690649Hand: <JointId.HandLeft (7)> X-coord: 181 Y-coord: 586
+Time: 2.26153598177Hand: <JointId.HandRight (11)> X-coord: 509 Y-coord: 205
+Time: 2.26159168539Hand: <JointId.HandLeft (7)> X-coord: 174 Y-coord: 549
+Time: 2.32816896289Hand: <JointId.HandRight (11)> X-coord: 509 Y-coord: 205
+Time: 2.32824718499Hand: <JointId.HandLeft (7)> X-coord: 174 Y-coord: 549
+Time: 2.33532707504Hand: <JointId.HandRight (11)> X-coord: 570 Y-coord: 289
+Time: 2.33542228476Hand: <JointId.HandLeft (7)> X-coord: 180 Y-coord: 460
+Time: 2.3635514255Hand: <JointId.HandRight (11)> X-coord: 570 Y-coord: 289
+Time: 2.3636458451Hand: <JointId.HandLeft (7)> X-coord: 180 Y-coord: 460
+Time: 2.36992336605Hand: <JointId.HandRight (11)> X-coord: 603 Y-coord: 260
+Time: 2.3700213412Hand: <JointId.HandLeft (7)> X-coord: 180 Y-coord: 348
+Time: 2.3984372963Hand: <JointId.HandRight (11)> X-coord: 603 Y-coord: 260
+Time: 2.39852302456Hand: <JointId.HandLeft (7)> X-coord: 180 Y-coord: 348
+Time: 2.40490879224Hand: <JointId.HandRight (11)> X-coord: 610 Y-coord: 326
+Time: 2.40501901429Hand: <JointId.HandLeft (7)> X-coord: 199 Y-coord: 319
+Time: 2.42422016913Hand: <JointId.HandRight (11)> X-coord: 610 Y-coord: 326
+Time: 2.42427192214Hand: <JointId.HandLeft (7)> X-coord: 199 Y-coord: 319
+Time: 2.42856386597Hand: <JointId.HandRight (11)> X-coord: 617 Y-coord: 381
+Time: 2.42861996465Hand: <JointId.HandLeft (7)> X-coord: 214 Y-coord: 276
+Time: 2.49396386139Hand: <JointId.HandRight (11)> X-coord: 617 Y-coord: 381
+Time: 2.49405235508Hand: <JointId.HandLeft (7)> X-coord: 214 Y-coord: 276
+Time: 2.50337856256Hand: <JointId.HandRight (11)> X-coord: 648 Y-coord: 562
+Time: 2.50346192046Hand: <JointId.HandLeft (7)> X-coord: 246 Y-coord: 226
+Time: 2.52995155761Hand: <JointId.HandRight (11)> X-coord: 648 Y-coord: 562
+Time: 2.53005308831Hand: <JointId.HandLeft (7)> X-coord: 246 Y-coord: 226
+Time: 2.54789997369Hand: <JointId.HandRight (11)> X-coord: 624 Y-coord: 641
+Time: 2.54796397359Hand: <JointId.HandLeft (7)> X-coord: 254 Y-coord: 211
+Time: 2.561466372Hand: <JointId.HandRight (11)> X-coord: 624 Y-coord: 641
+Time: 2.56151852007Hand: <JointId.HandLeft (7)> X-coord: 254 Y-coord: 211
+Time: 2.57102448036Hand: <JointId.HandRight (11)> X-coord: 590 Y-coord: 689
+Time: 2.57109519629Hand: <JointId.HandLeft (7)> X-coord: 278 Y-coord: 201
+Time: 2.59362908661Hand: <JointId.HandRight (11)> X-coord: 590 Y-coord: 689
+Time: 2.59371441981Hand: <JointId.HandLeft (7)> X-coord: 278 Y-coord: 201
+Time: 2.60424319329Hand: <JointId.HandRight (11)> X-coord: 550 Y-coord: 718
+Time: 2.60429850185Hand: <JointId.HandLeft (7)> X-coord: 285 Y-coord: 210
+Time: 2.72676467869Hand: <JointId.HandRight (11)> X-coord: 550 Y-coord: 718
+Time: 2.72681327121Hand: <JointId.HandLeft (7)> X-coord: 285 Y-coord: 210
+Time: 2.73008674752Hand: <JointId.HandRight (11)> X-coord: 538 Y-coord: 729
+Time: 2.73012743881Hand: <JointId.HandLeft (7)> X-coord: 313 Y-coord: 199
+Time: 2.8954399677Hand: <JointId.HandRight (11)> X-coord: 538 Y-coord: 729
+Time: 2.8954684121Hand: <JointId.HandLeft (7)> X-coord: 313 Y-coord: 199
+Time: 2.90705278885Hand: <JointId.HandRight (11)> X-coord: 633 Y-coord: 574
+Time: 2.90708834435Hand: <JointId.HandLeft (7)> X-coord: 221 Y-coord: 239
+Time: 2.92716534966Hand: <JointId.HandRight (11)> X-coord: 633 Y-coord: 574
+Time: 2.9271985348Hand: <JointId.HandLeft (7)> X-coord: 221 Y-coord: 239
+Time: 2.9293690005Hand: <JointId.HandRight (11)> X-coord: 667 Y-coord: 487
+Time: 2.9294025807Hand: <JointId.HandLeft (7)> X-coord: 210 Y-coord: 291
+Time: 2.95987443378Hand: <JointId.HandRight (11)> X-coord: 667 Y-coord: 487
+Time: 2.95995068057Hand: <JointId.HandLeft (7)> X-coord: 210 Y-coord: 291
+Time: 2.96213220799Hand: <JointId.HandRight (11)> X-coord: 666 Y-coord: 416
+Time: 2.96216855361Hand: <JointId.HandLeft (7)> X-coord: 192 Y-coord: 353
+Time: 3.0608153113Hand: <JointId.HandRight (11)> X-coord: 666 Y-coord: 416
+Time: 3.06085363223Hand: <JointId.HandLeft (7)> X-coord: 192 Y-coord: 353
+Time: 3.06571564924Hand: <JointId.HandRight (11)> X-coord: 652 Y-coord: 307
+Time: 3.06575673559Hand: <JointId.HandLeft (7)> X-coord: 202 Y-coord: 552
+Time: 3.09708982188Hand: <JointId.HandRight (11)> X-coord: 652 Y-coord: 307
+Time: 3.0971241922Hand: <JointId.HandLeft (7)> X-coord: 202 Y-coord: 552
+Time: 3.10834432262Hand: <JointId.HandRight (11)> X-coord: 610 Y-coord: 235
+Time: 3.10839370525Hand: <JointId.HandLeft (7)> X-coord: 208 Y-coord: 598
+Time: 3.12842448842Hand: <JointId.HandRight (11)> X-coord: 610 Y-coord: 235
+Time: 3.12845885873Hand: <JointId.HandLeft (7)> X-coord: 208 Y-coord: 598
+Time: 3.13054162087Hand: <JointId.HandRight (11)> X-coord: 594 Y-coord: 202
+Time: 3.13058270723Hand: <JointId.HandLeft (7)> X-coord: 235 Y-coord: 678
+Time: 3.16031224049Hand: <JointId.HandRight (11)> X-coord: 594 Y-coord: 202
+Time: 3.16034898118Hand: <JointId.HandLeft (7)> X-coord: 235 Y-coord: 678
+Time: 3.16305040901Hand: <JointId.HandRight (11)> X-coord: 581 Y-coord: 211
+Time: 3.16310927311Hand: <JointId.HandLeft (7)> X-coord: 271 Y-coord: 723
+Time: 3.35867795172Hand: <JointId.HandRight (11)> X-coord: 581 Y-coord: 211
+Time: 3.35871903807Hand: <JointId.HandLeft (7)> X-coord: 271 Y-coord: 723
+Time: 3.36173019381Hand: <JointId.HandRight (11)> X-coord: 467 Y-coord: 219
+Time: 3.36176416906Hand: <JointId.HandLeft (7)> X-coord: 289 Y-coord: 719
+Time: 3.39100698705Hand: <JointId.HandRight (11)> X-coord: 467 Y-coord: 219
+Time: 3.39104135737Hand: <JointId.HandLeft (7)> X-coord: 289 Y-coord: 719
+Time: 3.39397152558Hand: <JointId.HandRight (11)> X-coord: 469 Y-coord: 218
+Time: 3.39401142675Hand: <JointId.HandLeft (7)> X-coord: 256 Y-coord: 697
+Time: 3.46031176642Hand: <JointId.HandRight (11)> X-coord: 469 Y-coord: 218
+Time: 3.4603465318Hand: <JointId.HandLeft (7)> X-coord: 256 Y-coord: 697
+Time: 3.46762316227Hand: <JointId.HandRight (11)> X-coord: 475 Y-coord: 192
+Time: 3.46766306345Hand: <JointId.HandLeft (7)> X-coord: 207 Y-coord: 630
+Time: 3.49081324909Hand: <JointId.HandRight (11)> X-coord: 475 Y-coord: 192
+Time: 3.49084801446Hand: <JointId.HandLeft (7)> X-coord: 207 Y-coord: 630
+Time: 3.50034607353Hand: <JointId.HandRight (11)> X-coord: 503 Y-coord: 191
+Time: 3.50038676482Hand: <JointId.HandLeft (7)> X-coord: 198 Y-coord: 607
+Time: 3.59374128396Hand: <JointId.HandRight (11)> X-coord: 503 Y-coord: 191
+Time: 3.59377723452Hand: <JointId.HandLeft (7)> X-coord: 198 Y-coord: 607
+Time: 3.60515183383Hand: <JointId.HandRight (11)> X-coord: 617 Y-coord: 255
+Time: 3.60518896958Hand: <JointId.HandLeft (7)> X-coord: 185 Y-coord: 446
+Time: 3.6599475991Hand: <JointId.HandRight (11)> X-coord: 617 Y-coord: 255
+Time: 3.66000764838Hand: <JointId.HandLeft (7)> X-coord: 185 Y-coord: 446
+Time: 3.66900437491Hand: <JointId.HandRight (11)> X-coord: 639 Y-coord: 373
+Time: 3.66904151065Hand: <JointId.HandLeft (7)> X-coord: 216 Y-coord: 292
+Time: 3.72742008506Hand: <JointId.HandRight (11)> X-coord: 639 Y-coord: 373
+Time: 3.72750146765Hand: <JointId.HandLeft (7)> X-coord: 216 Y-coord: 292
+Time: 3.73274116308Hand: <JointId.HandRight (11)> X-coord: 659 Y-coord: 503
+Time: 3.73279291608Hand: <JointId.HandLeft (7)> X-coord: 254 Y-coord: 230
+Time: 3.76046023038Hand: <JointId.HandRight (11)> X-coord: 659 Y-coord: 503
+Time: 3.76050368711Hand: <JointId.HandLeft (7)> X-coord: 254 Y-coord: 230
+Time: 3.76490348262Hand: <JointId.HandRight (11)> X-coord: 628 Y-coord: 593
+Time: 3.76494417392Hand: <JointId.HandLeft (7)> X-coord: 299 Y-coord: 192
+Time: 3.7960741988Hand: <JointId.HandRight (11)> X-coord: 628 Y-coord: 593
+Time: 3.79610935923Hand: <JointId.HandLeft (7)> X-coord: 299 Y-coord: 192
+Time: 3.80744247713Hand: <JointId.HandRight (11)> X-coord: 602 Y-coord: 646
+Time: 3.8074823783Hand: <JointId.HandLeft (7)> X-coord: 300 Y-coord: 192
+Time: 3.82725716187Hand: <JointId.HandRight (11)> X-coord: 602 Y-coord: 646
+Time: 3.82730772969Hand: <JointId.HandLeft (7)> X-coord: 300 Y-coord: 192
+Time: 3.82964925685Hand: <JointId.HandRight (11)> X-coord: 573 Y-coord: 709
+Time: 3.82968955308Hand: <JointId.HandLeft (7)> X-coord: 342 Y-coord: 164
+Time: 3.96277418228Hand: <JointId.HandRight (11)> X-coord: 573 Y-coord: 709
+Time: 3.96280776248Hand: <JointId.HandLeft (7)> X-coord: 342 Y-coord: 164
+Time: 3.9657154122Hand: <JointId.HandRight (11)> X-coord: 495 Y-coord: 714
+Time: 3.96575649856Hand: <JointId.HandLeft (7)> X-coord: 413 Y-coord: 234
+Time: 3.99984829654Hand: <JointId.HandRight (11)> X-coord: 495 Y-coord: 714
+Time: 3.99988187673Hand: <JointId.HandLeft (7)> X-coord: 413 Y-coord: 234
+Time: 4.00852146802Hand: <JointId.HandRight (11)> X-coord: 494 Y-coord: 702
+Time: 4.00880512189Hand: <JointId.HandLeft (7)> X-coord: 425 Y-coord: 235
+Time: 4.03178819668Hand: <JointId.HandRight (11)> X-coord: 494 Y-coord: 702
+Time: 4.03182612255Hand: <JointId.HandLeft (7)> X-coord: 425 Y-coord: 235
+Time: 4.04142650244Hand: <JointId.HandRight (11)> X-coord: 493 Y-coord: 703
+Time: 4.04146719373Hand: <JointId.HandLeft (7)> X-coord: 431 Y-coord: 249
+Time: 4.19590606079Hand: <JointId.HandRight (11)> X-coord: 493 Y-coord: 703
+Time: 4.19593371507Hand: <JointId.HandLeft (7)> X-coord: 431 Y-coord: 249
+Time: 4.1983151434Hand: <JointId.HandRight (11)> X-coord: 580 Y-coord: 658
+Time: 4.19836768653Hand: <JointId.HandLeft (7)> X-coord: 350 Y-coord: 186
+Time: 4.22817425671Hand: <JointId.HandRight (11)> X-coord: 580 Y-coord: 658
+Time: 4.22820744185Hand: <JointId.HandLeft (7)> X-coord: 350 Y-coord: 186
+Time: 4.23027874721Hand: <JointId.HandRight (11)> X-coord: 607 Y-coord: 623
+Time: 4.23031943851Hand: <JointId.HandLeft (7)> X-coord: 333 Y-coord: 177
+Time: 4.26305854727Hand: <JointId.HandRight (11)> X-coord: 607 Y-coord: 623
+Time: 4.26309410276Hand: <JointId.HandLeft (7)> X-coord: 333 Y-coord: 177
+Time: 4.27286356881Hand: <JointId.HandRight (11)> X-coord: 638 Y-coord: 560
+Time: 4.27290307492Hand: <JointId.HandLeft (7)> X-coord: 295 Y-coord: 196
+Time: 4.29500200296Hand: <JointId.HandRight (11)> X-coord: 638 Y-coord: 560
+Time: 4.29504703993Hand: <JointId.HandLeft (7)> X-coord: 295 Y-coord: 196
+Time: 4.30538776433Hand: <JointId.HandRight (11)> X-coord: 654 Y-coord: 533
+Time: 4.30543596178Hand: <JointId.HandLeft (7)> X-coord: 277 Y-coord: 213
+Time: 4.36971951452Hand: <JointId.HandRight (11)> X-coord: 654 Y-coord: 533
+Time: 4.36977640332Hand: <JointId.HandLeft (7)> X-coord: 277 Y-coord: 213
+Time: 4.37986902934Hand: <JointId.HandRight (11)> X-coord: 662 Y-coord: 399
+Time: 4.37993579467Hand: <JointId.HandLeft (7)> X-coord: 230 Y-coord: 294
+Time: 4.39985675084Hand: <JointId.HandRight (11)> X-coord: 662 Y-coord: 399
+Time: 4.39991838038Hand: <JointId.HandLeft (7)> X-coord: 230 Y-coord: 294
+Time: 4.40337951071Hand: <JointId.HandRight (11)> X-coord: 689 Y-coord: 345
+Time: 4.40345417726Hand: <JointId.HandLeft (7)> X-coord: 199 Y-coord: 346
+Time: 4.46453101901Hand: <JointId.HandRight (11)> X-coord: 689 Y-coord: 345
+Time: 4.46460173495Hand: <JointId.HandLeft (7)> X-coord: 199 Y-coord: 346
+Time: 4.46865703718Hand: <JointId.HandRight (11)> X-coord: 617 Y-coord: 247
+Time: 4.4687767407Hand: <JointId.HandLeft (7)> X-coord: 181 Y-coord: 420
+Time: 4.49719151061Hand: <JointId.HandRight (11)> X-coord: 617 Y-coord: 247
+Time: 4.49726301667Hand: <JointId.HandLeft (7)> X-coord: 181 Y-coord: 420
+Time: 4.50250982319Hand: <JointId.HandRight (11)> X-coord: 592 Y-coord: 240
+Time: 4.50257540334Hand: <JointId.HandLeft (7)> X-coord: 207 Y-coord: 494
+Time: 4.53362167526Hand: <JointId.HandRight (11)> X-coord: 592 Y-coord: 240
+Time: 4.53369673687Hand: <JointId.HandLeft (7)> X-coord: 207 Y-coord: 494
+Time: 4.56307901143Hand: <JointId.HandRight (11)> X-coord: 592 Y-coord: 240
+Time: 4.56313590023Hand: <JointId.HandLeft (7)> X-coord: 207 Y-coord: 494
+Time: 4.56756137472Hand: <JointId.HandRight (11)> X-coord: 577 Y-coord: 216
+Time: 4.56764315237Hand: <JointId.HandLeft (7)> X-coord: 180 Y-coord: 590
+Time: 4.57013164226Hand: <JointId.HandRight (11)> X-coord: 541 Y-coord: 171
+Time: 4.57017312368Hand: <JointId.HandLeft (7)> X-coord: 194 Y-coord: 613
+Time: 4.80064505577Hand: <JointId.HandRight (11)> X-coord: 541 Y-coord: 171
+Time: 4.80070115445Hand: <JointId.HandLeft (7)> X-coord: 194 Y-coord: 613
+Time: 4.81034104045Hand: <JointId.HandRight (11)> X-coord: 410 Y-coord: 344
+Time: 4.81040701565Hand: <JointId.HandLeft (7)> X-coord: 299 Y-coord: 559
+Time: 4.83167868574Hand: <JointId.HandRight (11)> X-coord: 410 Y-coord: 344
+Time: 4.83175374735Hand: <JointId.HandLeft (7)> X-coord: 299 Y-coord: 559
+Time: 4.84426019672Hand: <JointId.HandRight (11)> X-coord: 415 Y-coord: 373
+Time: 4.84432696205Hand: <JointId.HandLeft (7)> X-coord: 315 Y-coord: 517
+Time: 4.86790420874Hand: <JointId.HandRight (11)> X-coord: 415 Y-coord: 373
+Time: 4.86796188767Hand: <JointId.HandLeft (7)> X-coord: 315 Y-coord: 517
+Time: 4.87780364989Hand: <JointId.HandRight (11)> X-coord: 395 Y-coord: 384
+Time: 4.87786764979Hand: <JointId.HandLeft (7)> X-coord: 317 Y-coord: 500
+Time: 4.90070178655Hand: <JointId.HandRight (11)> X-coord: 395 Y-coord: 384
+Time: 4.90077368767Hand: <JointId.HandLeft (7)> X-coord: 317 Y-coord: 500
+Time: 4.91120093045Hand: <JointId.HandRight (11)> X-coord: 395 Y-coord: 434
+Time: 4.91126651059Hand: <JointId.HandLeft (7)> X-coord: 317 Y-coord: 474
+Time: 4.9318950212Hand: <JointId.HandRight (11)> X-coord: 395 Y-coord: 434
+Time: 4.93197877416Hand: <JointId.HandLeft (7)> X-coord: 317 Y-coord: 474
+Time: 4.94458556905Hand: <JointId.HandRight (11)> X-coord: 400 Y-coord: 454
+Time: 4.94466892694Hand: <JointId.HandLeft (7)> X-coord: 315 Y-coord: 457
+Time: 4.96847767944Hand: <JointId.HandRight (11)> X-coord: 400 Y-coord: 454
+Time: 4.96853575342Hand: <JointId.HandLeft (7)> X-coord: 315 Y-coord: 457
+Time: 4.97825228128Hand: <JointId.HandRight (11)> X-coord: 438 Y-coord: 448
+Time: 4.97832062685Hand: <JointId.HandLeft (7)> X-coord: 309 Y-coord: 406
+Time: 5.00006202459Hand: <JointId.HandRight (11)> X-coord: 438 Y-coord: 448
+Time: 5.00013116029Hand: <JointId.HandLeft (7)> X-coord: 309 Y-coord: 406
+Time: 5.01161045079Hand: <JointId.HandRight (11)> X-coord: 450 Y-coord: 455
+Time: 5.01167682105Hand: <JointId.HandLeft (7)> X-coord: 312 Y-coord: 420
+Time: 5.12784927945Hand: <JointId.HandRight (11)> X-coord: 450 Y-coord: 455
+Time: 5.12788720531Hand: <JointId.HandLeft (7)> X-coord: 312 Y-coord: 420
+Time: 5.13849736139Hand: <JointId.HandRight (11)> X-coord: 509 Y-coord: 403
+Time: 5.13854121317Hand: <JointId.HandLeft (7)> X-coord: 303 Y-coord: 371
+Time: 5.16116043668Hand: <JointId.HandRight (11)> X-coord: 509 Y-coord: 403
+Time: 5.16119875761Hand: <JointId.HandLeft (7)> X-coord: 303 Y-coord: 371
+Time: 5.17080308811Hand: <JointId.HandRight (11)> X-coord: 514 Y-coord: 429
+Time: 5.1708469399Hand: <JointId.HandLeft (7)> X-coord: 302 Y-coord: 370
+Time: 5.29123074966Hand: <JointId.HandRight (11)> X-coord: 514 Y-coord: 429
+Time: 5.29126907059Hand: <JointId.HandLeft (7)> X-coord: 302 Y-coord: 370
+Time: 5.29661898806Hand: <JointId.HandRight (11)> X-coord: 546 Y-coord: 535
+Time: 5.29666481515Hand: <JointId.HandLeft (7)> X-coord: 303 Y-coord: 341
+Time: 5.32431316652Hand: <JointId.HandRight (11)> X-coord: 546 Y-coord: 535
+Time: 5.32436452446Hand: <JointId.HandLeft (7)> X-coord: 303 Y-coord: 341
+Time: 5.32872836942Hand: <JointId.HandRight (11)> X-coord: 511 Y-coord: 516
+Time: 5.32877893724Hand: <JointId.HandLeft (7)> X-coord: 308 Y-coord: 328
+Time: 5.35573356131Hand: <JointId.HandRight (11)> X-coord: 511 Y-coord: 516
+Time: 5.35579400566Hand: <JointId.HandLeft (7)> X-coord: 308 Y-coord: 328
+Time: 5.361569799Hand: <JointId.HandRight (11)> X-coord: 487 Y-coord: 588
+Time: 5.36165631738Hand: <JointId.HandLeft (7)> X-coord: 323 Y-coord: 315
+Time: 5.39955176367Hand: <JointId.HandRight (11)> X-coord: 487 Y-coord: 588
+Time: 5.39962919565Hand: <JointId.HandLeft (7)> X-coord: 323 Y-coord: 315
+Time: 5.40686394965Hand: <JointId.HandRight (11)> X-coord: 473 Y-coord: 612
+Time: 5.40695007297Hand: <JointId.HandLeft (7)> X-coord: 336 Y-coord: 293
+Time: 5.4345277084Hand: <JointId.HandRight (11)> X-coord: 473 Y-coord: 612
+Time: 5.4346201527Hand: <JointId.HandLeft (7)> X-coord: 336 Y-coord: 293
+Time: 5.44206784463Hand: <JointId.HandRight (11)> X-coord: 452 Y-coord: 601
+Time: 5.44219939998Hand: <JointId.HandLeft (7)> X-coord: 347 Y-coord: 282
+Time: 5.47082276216Hand: <JointId.HandRight (11)> X-coord: 452 Y-coord: 601
+Time: 5.47091165091Hand: <JointId.HandLeft (7)> X-coord: 347 Y-coord: 282
+Time: 5.47764546742Hand: <JointId.HandRight (11)> X-coord: 427 Y-coord: 590
+Time: 5.4777513438Hand: <JointId.HandLeft (7)> X-coord: 369 Y-coord: 269
+Time: 5.49578746345Hand: <JointId.HandRight (11)> X-coord: 427 Y-coord: 590
+Time: 5.49586766085Hand: <JointId.HandLeft (7)> X-coord: 369 Y-coord: 269
+Time: 5.5027128846Hand: <JointId.HandRight (11)> X-coord: 415 Y-coord: 576
+Time: 5.50280098323Hand: <JointId.HandLeft (7)> X-coord: 379 Y-coord: 299
+Time: 5.53000133531Hand: <JointId.HandRight (11)> X-coord: 415 Y-coord: 576
+Time: 5.53007679198Hand: <JointId.HandLeft (7)> X-coord: 379 Y-coord: 299
+Time: 5.53775954527Hand: <JointId.HandRight (11)> X-coord: 410 Y-coord: 564
+Time: 5.53784724883Hand: <JointId.HandLeft (7)> X-coord: 398 Y-coord: 288
+Time: 5.56202419828Hand: <JointId.HandRight (11)> X-coord: 410 Y-coord: 564
+Time: 5.56213125984Hand: <JointId.HandLeft (7)> X-coord: 398 Y-coord: 288
+Time: 5.58253221526Hand: <JointId.HandRight (11)> X-coord: 423 Y-coord: 549
+Time: 5.58262426449Hand: <JointId.HandLeft (7)> X-coord: 417 Y-coord: 315
+Time: 5.59540883688Hand: <JointId.HandRight (11)> X-coord: 423 Y-coord: 549
+Time: 5.59554197248Hand: <JointId.HandLeft (7)> X-coord: 417 Y-coord: 315
+Time: 5.60676921399Hand: <JointId.HandRight (11)> X-coord: 420 Y-coord: 545
+Time: 5.6068656089Hand: <JointId.HandLeft (7)> X-coord: 430 Y-coord: 353
+Time: 5.62977125172Hand: <JointId.HandRight (11)> X-coord: 420 Y-coord: 545
+Time: 5.62986448614Hand: <JointId.HandLeft (7)> X-coord: 430 Y-coord: 353
+Time: 5.64136985067Hand: <JointId.HandRight (11)> X-coord: 415 Y-coord: 539
+Time: 5.64147375175Hand: <JointId.HandLeft (7)> X-coord: 423 Y-coord: 390
+Time: 5.66494433194Hand: <JointId.HandRight (11)> X-coord: 415 Y-coord: 539
+Time: 5.66502215898Hand: <JointId.HandLeft (7)> X-coord: 423 Y-coord: 390
+Time: 5.6774326085Hand: <JointId.HandRight (11)> X-coord: 416 Y-coord: 532
+Time: 5.6775179417Hand: <JointId.HandLeft (7)> X-coord: 408 Y-coord: 418
+Time: 5.69164532678Hand: <JointId.HandRight (11)> X-coord: 416 Y-coord: 532
+Time: 5.69174014145Hand: <JointId.HandLeft (7)> X-coord: 408 Y-coord: 418
+Time: 5.70208481646Hand: <JointId.HandRight (11)> X-coord: 424 Y-coord: 517
+Time: 5.70217370521Hand: <JointId.HandLeft (7)> X-coord: 402 Y-coord: 429
+Time: 5.7318258065Hand: <JointId.HandRight (11)> X-coord: 424 Y-coord: 517
+Time: 5.73195222605Hand: <JointId.HandLeft (7)> X-coord: 402 Y-coord: 429
+Time: 5.73679646531Hand: <JointId.HandRight (11)> X-coord: 447 Y-coord: 506
+Time: 5.7369296009Hand: <JointId.HandLeft (7)> X-coord: 353 Y-coord: 436
+Time: 5.75441500537Hand: <JointId.HandRight (11)> X-coord: 447 Y-coord: 506
+Time: 5.7544624127Hand: <JointId.HandLeft (7)> X-coord: 353 Y-coord: 436
+Time: 5.76166437663Hand: <JointId.HandRight (11)> X-coord: 472 Y-coord: 503
+Time: 5.76172047531Hand: <JointId.HandLeft (7)> X-coord: 335 Y-coord: 446
+Time: 5.85252171453Hand: <JointId.HandRight (11)> X-coord: 472 Y-coord: 503
+Time: 5.85260981316Hand: <JointId.HandLeft (7)> X-coord: 335 Y-coord: 446
+Time: 5.85753148439Hand: <JointId.HandRight (11)> X-coord: 525 Y-coord: 467
+Time: 5.8575852127Hand: <JointId.HandLeft (7)> X-coord: 279 Y-coord: 435
+Time: 5.98711982282Hand: <JointId.HandRight (11)> X-coord: 525 Y-coord: 467
+Time: 5.98716644003Hand: <JointId.HandLeft (7)> X-coord: 279 Y-coord: 435
+Time: 5.99271033251Hand: <JointId.HandRight (11)> X-coord: 607 Y-coord: 406
+Time: 5.99275339417Hand: <JointId.HandLeft (7)> X-coord: 212 Y-coord: 295
+Time: 6.02092559656Hand: <JointId.HandRight (11)> X-coord: 607 Y-coord: 406
+Time: 6.020960757Hand: <JointId.HandLeft (7)> X-coord: 212 Y-coord: 295
+Time: 6.02507097273Hand: <JointId.HandRight (11)> X-coord: 618 Y-coord: 385
+Time: 6.02511324427Hand: <JointId.HandLeft (7)> X-coord: 207 Y-coord: 271
+Time: 6.05112683279Hand: <JointId.HandRight (11)> X-coord: 618 Y-coord: 385
+Time: 6.05116159816Hand: <JointId.HandLeft (7)> X-coord: 207 Y-coord: 271
+Time: 6.05774924208Hand: <JointId.HandRight (11)> X-coord: 616 Y-coord: 361
+Time: 6.05778993337Hand: <JointId.HandLeft (7)> X-coord: 207 Y-coord: 247
+Time: 6.08778178721Hand: <JointId.HandRight (11)> X-coord: 616 Y-coord: 361
+Time: 6.08782366369Hand: <JointId.HandLeft (7)> X-coord: 207 Y-coord: 247
+Time: 6.09064677034Hand: <JointId.HandRight (11)> X-coord: 615 Y-coord: 335
+Time: 6.09068746163Hand: <JointId.HandLeft (7)> X-coord: 215 Y-coord: 226
+Time: 6.11964030477Hand: <JointId.HandRight (11)> X-coord: 615 Y-coord: 335
+Time: 6.11967507014Hand: <JointId.HandLeft (7)> X-coord: 215 Y-coord: 226
+Time: 6.12314370664Hand: <JointId.HandRight (11)> X-coord: 610 Y-coord: 314
+Time: 6.12318479299Hand: <JointId.HandLeft (7)> X-coord: 222 Y-coord: 208
+Time: 6.35564862317Hand: <JointId.HandRight (11)> X-coord: 610 Y-coord: 314
+Time: 6.35567943794Hand: <JointId.HandLeft (7)> X-coord: 222 Y-coord: 208
+Time: 6.36203478592Hand: <JointId.HandRight (11)> X-coord: 574 Y-coord: 235
+Time: 6.3620695513Hand: <JointId.HandLeft (7)> X-coord: 238 Y-coord: 294
+Time: 6.41784348785Hand: <JointId.HandRight (11)> X-coord: 574 Y-coord: 235
+Time: 6.41787864829Hand: <JointId.HandLeft (7)> X-coord: 238 Y-coord: 294
+Time: 6.42652969635Hand: <JointId.HandRight (11)> X-coord: 571 Y-coord: 207
+Time: 6.42658737527Hand: <JointId.HandLeft (7)> X-coord: 223 Y-coord: 348
+Time: 6.48777167364Hand: <JointId.HandRight (11)> X-coord: 571 Y-coord: 207
+Time: 6.48780643902Hand: <JointId.HandLeft (7)> X-coord: 223 Y-coord: 348
+Time: 6.4903245585Hand: <JointId.HandRight (11)> X-coord: 552 Y-coord: 211
+Time: 6.49036485473Hand: <JointId.HandLeft (7)> X-coord: 216 Y-coord: 408
+Time: 6.5188937973Hand: <JointId.HandRight (11)> X-coord: 552 Y-coord: 211
+Time: 6.51892856268Hand: <JointId.HandLeft (7)> X-coord: 216 Y-coord: 408
+Time: 6.52331018539Hand: <JointId.HandRight (11)> X-coord: 568 Y-coord: 176
+Time: 6.52335838284Hand: <JointId.HandLeft (7)> X-coord: 213 Y-coord: 457
+Time: 6.55699546549Hand: <JointId.HandRight (11)> X-coord: 568 Y-coord: 176
+Time: 6.55702944074Hand: <JointId.HandLeft (7)> X-coord: 213 Y-coord: 457
+Time: 6.5867996653Hand: <JointId.HandRight (11)> X-coord: 568 Y-coord: 176
+Time: 6.58682968995Hand: <JointId.HandLeft (7)> X-coord: 213 Y-coord: 457
+Time: 6.58831116909Hand: <JointId.HandRight (11)> X-coord: 543 Y-coord: 182
+Time: 6.58876904491Hand: <JointId.HandLeft (7)> X-coord: 215 Y-coord: 494
+Time: 6.58987008021Hand: <JointId.HandRight (11)> X-coord: 539 Y-coord: 173
+Time: 6.5899056357Hand: <JointId.HandLeft (7)> X-coord: 215 Y-coord: 515
+Time: 6.75475791841Hand: <JointId.HandRight (11)> X-coord: 539 Y-coord: 173
+Time: 6.75479268378Hand: <JointId.HandLeft (7)> X-coord: 215 Y-coord: 515
+Time: 6.75755771645Hand: <JointId.HandRight (11)> X-coord: 483 Y-coord: 166
+Time: 6.75759880281Hand: <JointId.HandLeft (7)> X-coord: 280 Y-coord: 657
+Time: 6.85896634632Hand: <JointId.HandRight (11)> X-coord: 483 Y-coord: 166
+Time: 6.8590082228Hand: <JointId.HandLeft (7)> X-coord: 280 Y-coord: 657
+Time: 6.8625428345Hand: <JointId.HandRight (11)> X-coord: 450 Y-coord: 185
+Time: 6.86268782193Hand: <JointId.HandLeft (7)> X-coord: 319 Y-coord: 675
+Time: 6.88900876799Hand: <JointId.HandRight (11)> X-coord: 450 Y-coord: 185
+Time: 6.88904906422Hand: <JointId.HandLeft (7)> X-coord: 319 Y-coord: 675
+Time: 6.89569320187Hand: <JointId.HandRight (11)> X-coord: 444 Y-coord: 214
+Time: 6.89576470793Hand: <JointId.HandLeft (7)> X-coord: 321 Y-coord: 671
+Time: 6.92324318302Hand: <JointId.HandRight (11)> X-coord: 444 Y-coord: 214
+Time: 6.92327834346Hand: <JointId.HandLeft (7)> X-coord: 321 Y-coord: 671
+Time: 6.92843547111Hand: <JointId.HandRight (11)> X-coord: 416 Y-coord: 218
+Time: 6.92847537229Hand: <JointId.HandLeft (7)> X-coord: 321 Y-coord: 658
+Time: 6.98812604346Hand: <JointId.HandRight (11)> X-coord: 416 Y-coord: 218
+Time: 6.98817503103Hand: <JointId.HandLeft (7)> X-coord: 321 Y-coord: 658
+Time: 6.99147892705Hand: <JointId.HandRight (11)> X-coord: 398 Y-coord: 280
+Time: 6.99153779115Hand: <JointId.HandLeft (7)> X-coord: 300 Y-coord: 629
+Time: 7.02305932159Hand: <JointId.HandRight (11)> X-coord: 398 Y-coord: 280
+Time: 7.02309250672Hand: <JointId.HandLeft (7)> X-coord: 300 Y-coord: 629
+Time: 7.03433792105Hand: <JointId.HandRight (11)> X-coord: 418 Y-coord: 296
+Time: 7.03439520491Hand: <JointId.HandLeft (7)> X-coord: 289 Y-coord: 621
+Time: 7.05405779112Hand: <JointId.HandRight (11)> X-coord: 418 Y-coord: 296
+Time: 7.0540925565Hand: <JointId.HandLeft (7)> X-coord: 289 Y-coord: 621
+Time: 7.05693818163Hand: <JointId.HandRight (11)> X-coord: 396 Y-coord: 324
+Time: 7.05698045317Hand: <JointId.HandLeft (7)> X-coord: 264 Y-coord: 577
+Time: 7.09075896769Hand: <JointId.HandRight (11)> X-coord: 396 Y-coord: 324
+Time: 7.09079373307Hand: <JointId.HandLeft (7)> X-coord: 264 Y-coord: 577
+Time: 7.09955539823Hand: <JointId.HandRight (11)> X-coord: 391 Y-coord: 373
+Time: 7.09961268209Hand: <JointId.HandLeft (7)> X-coord: 248 Y-coord: 535
+Time: 7.12455684021Hand: <JointId.HandRight (11)> X-coord: 391 Y-coord: 373
+Time: 7.12459871668Hand: <JointId.HandLeft (7)> X-coord: 248 Y-coord: 535
+Time: 7.13168374252Hand: <JointId.HandRight (11)> X-coord: 374 Y-coord: 382
+Time: 7.13172877949Hand: <JointId.HandLeft (7)> X-coord: 252 Y-coord: 494
+Time: 7.15850602113Hand: <JointId.HandRight (11)> X-coord: 374 Y-coord: 382
+Time: 7.15853920626Hand: <JointId.HandLeft (7)> X-coord: 252 Y-coord: 494
+Time: 7.163793914Hand: <JointId.HandRight (11)> X-coord: 402 Y-coord: 394
+Time: 7.16383618554Hand: <JointId.HandLeft (7)> X-coord: 253 Y-coord: 442
+Time: 7.19357520028Hand: <JointId.HandRight (11)> X-coord: 402 Y-coord: 394
+Time: 7.19361273108Hand: <JointId.HandLeft (7)> X-coord: 253 Y-coord: 442
+Time: 7.19583494979Hand: <JointId.HandRight (11)> X-coord: 376 Y-coord: 391
+Time: 7.19588275219Hand: <JointId.HandLeft (7)> X-coord: 267 Y-coord: 383
+Time: 7.22316448685Hand: <JointId.HandRight (11)> X-coord: 376 Y-coord: 391
+Time: 7.22321268431Hand: <JointId.HandLeft (7)> X-coord: 267 Y-coord: 383
+Time: 7.228447639Hand: <JointId.HandRight (11)> X-coord: 380 Y-coord: 389
+Time: 7.22848793523Hand: <JointId.HandLeft (7)> X-coord: 275 Y-coord: 347
+Time: 7.28884813614Hand: <JointId.HandRight (11)> X-coord: 380 Y-coord: 389
+Time: 7.2888840867Hand: <JointId.HandLeft (7)> X-coord: 275 Y-coord: 347
+Time: 7.29205247676Hand: <JointId.HandRight (11)> X-coord: 408 Y-coord: 410
+Time: 7.29209316805Hand: <JointId.HandLeft (7)> X-coord: 295 Y-coord: 273
+Time: 7.32305608208Hand: <JointId.HandRight (11)> X-coord: 408 Y-coord: 410
+Time: 7.32309084746Hand: <JointId.HandLeft (7)> X-coord: 295 Y-coord: 273
+Time: 7.32450714152Hand: <JointId.HandRight (11)> X-coord: 402 Y-coord: 428
+Time: 7.32453598098Hand: <JointId.HandLeft (7)> X-coord: 313 Y-coord: 226
+Time: 7.3550734142Hand: <JointId.HandRight (11)> X-coord: 402 Y-coord: 428
+Time: 7.35510778452Hand: <JointId.HandLeft (7)> X-coord: 313 Y-coord: 226
+Time: 7.35695390506Hand: <JointId.HandRight (11)> X-coord: 404 Y-coord: 462
+Time: 7.3569961766Hand: <JointId.HandLeft (7)> X-coord: 336 Y-coord: 222
+Time: 7.39135701119Hand: <JointId.HandRight (11)> X-coord: 404 Y-coord: 462
+Time: 7.39139098644Hand: <JointId.HandLeft (7)> X-coord: 336 Y-coord: 222
+Time: 7.39982396077Hand: <JointId.HandRight (11)> X-coord: 409 Y-coord: 484
+Time: 7.39985556566Hand: <JointId.HandLeft (7)> X-coord: 345 Y-coord: 200
+Time: 7.42718905333Hand: <JointId.HandRight (11)> X-coord: 409 Y-coord: 484
+Time: 7.42722460883Hand: <JointId.HandLeft (7)> X-coord: 345 Y-coord: 200
+Time: 7.43173462639Hand: <JointId.HandRight (11)> X-coord: 414 Y-coord: 498
+Time: 7.43179586087Hand: <JointId.HandLeft (7)> X-coord: 369 Y-coord: 184
+Time: 7.45883384283Hand: <JointId.HandRight (11)> X-coord: 414 Y-coord: 498
+Time: 7.45886821315Hand: <JointId.HandLeft (7)> X-coord: 369 Y-coord: 184
+Time: 7.4636962549Hand: <JointId.HandRight (11)> X-coord: 415 Y-coord: 528
+Time: 7.46376064986Hand: <JointId.HandLeft (7)> X-coord: 385 Y-coord: 159
+Time: 7.49229314798Hand: <JointId.HandRight (11)> X-coord: 415 Y-coord: 528
+Time: 7.49232870348Hand: <JointId.HandLeft (7)> X-coord: 385 Y-coord: 159
+Time: 7.49617501839Hand: <JointId.HandRight (11)> X-coord: 424 Y-coord: 518
+Time: 7.49621570968Hand: <JointId.HandLeft (7)> X-coord: 390 Y-coord: 153
+Time: 7.52340065438Hand: <JointId.HandRight (11)> X-coord: 424 Y-coord: 518
+Time: 7.52345240738Hand: <JointId.HandLeft (7)> X-coord: 390 Y-coord: 153
+Time: 7.52840765881Hand: <JointId.HandRight (11)> X-coord: 427 Y-coord: 526
+Time: 7.52844795505Hand: <JointId.HandLeft (7)> X-coord: 415 Y-coord: 138
+Time: 7.65572755638Hand: <JointId.HandRight (11)> X-coord: 427 Y-coord: 526
+Time: 7.65576548225Hand: <JointId.HandLeft (7)> X-coord: 415 Y-coord: 138
+Time: 7.66352290209Hand: <JointId.HandRight (11)> X-coord: 478 Y-coord: 559
+Time: 7.66359835876Hand: <JointId.HandLeft (7)> X-coord: 475 Y-coord: 121
+Time: 7.6883157518Hand: <JointId.HandRight (11)> X-coord: 478 Y-coord: 559
+Time: 7.68834972705Hand: <JointId.HandLeft (7)> X-coord: 475 Y-coord: 121
+Time: 7.69545648125Hand: <JointId.HandRight (11)> X-coord: 495 Y-coord: 566
+Time: 7.69550467871Hand: <JointId.HandLeft (7)> X-coord: 492 Y-coord: 136
+Time: 7.72310720299Hand: <JointId.HandRight (11)> X-coord: 495 Y-coord: 566
+Time: 7.72314631404Hand: <JointId.HandLeft (7)> X-coord: 492 Y-coord: 136
+Time: 7.72735845553Hand: <JointId.HandRight (11)> X-coord: 509 Y-coord: 578
+Time: 7.72740033201Hand: <JointId.HandLeft (7)> X-coord: 509 Y-coord: 144
+Time: 7.75494399219Hand: <JointId.HandRight (11)> X-coord: 509 Y-coord: 578
+Time: 7.75497875756Hand: <JointId.HandLeft (7)> X-coord: 509 Y-coord: 144
+Time: 7.75964758969Hand: <JointId.HandRight (11)> X-coord: 517 Y-coord: 583
+Time: 7.75968946617Hand: <JointId.HandLeft (7)> X-coord: 518 Y-coord: 153
+Time: 7.88671346297Hand: <JointId.HandRight (11)> X-coord: 517 Y-coord: 583
+Time: 7.88676363573Hand: <JointId.HandLeft (7)> X-coord: 518 Y-coord: 153
+Time: 7.89665478059Hand: <JointId.HandRight (11)> X-coord: 579 Y-coord: 611
+Time: 7.89671008915Hand: <JointId.HandLeft (7)> X-coord: 536 Y-coord: 225
+Time: 7.91849415349Hand: <JointId.HandRight (11)> X-coord: 579 Y-coord: 611
+Time: 7.91852733862Hand: <JointId.HandLeft (7)> X-coord: 536 Y-coord: 225
+Time: 7.92844692789Hand: <JointId.HandRight (11)> X-coord: 593 Y-coord: 610
+Time: 7.92848682906Hand: <JointId.HandLeft (7)> X-coord: 534 Y-coord: 255
+Time: 7.9539121716Hand: <JointId.HandRight (11)> X-coord: 593 Y-coord: 610
+Time: 7.95394614685Hand: <JointId.HandLeft (7)> X-coord: 534 Y-coord: 255
+Time: 7.96147719668Hand: <JointId.HandRight (11)> X-coord: 602 Y-coord: 609
+Time: 7.96151709785Hand: <JointId.HandLeft (7)> X-coord: 533 Y-coord: 283
+Time: 7.99026924994Hand: <JointId.HandRight (11)> X-coord: 602 Y-coord: 609
+Time: 7.99030441038Hand: <JointId.HandLeft (7)> X-coord: 533 Y-coord: 283
+Time: 7.99379398512Hand: <JointId.HandRight (11)> X-coord: 616 Y-coord: 607
+Time: 7.99383467641Hand: <JointId.HandLeft (7)> X-coord: 526 Y-coord: 325
+Time: 8.02137399092Hand: <JointId.HandRight (11)> X-coord: 616 Y-coord: 607
+Time: 8.02140717605Hand: <JointId.HandLeft (7)> X-coord: 526 Y-coord: 325
+Time: 8.02579432961Hand: <JointId.HandRight (11)> X-coord: 617 Y-coord: 606
+Time: 8.02583462584Hand: <JointId.HandLeft (7)> X-coord: 502 Y-coord: 402
+Time: 8.2920185015Hand: <JointId.HandRight (11)> X-coord: 617 Y-coord: 606
+Time: 8.29214966179Hand: <JointId.HandLeft (7)> X-coord: 502 Y-coord: 402
+Time: 8.29772673939Hand: <JointId.HandRight (11)> X-coord: 657 Y-coord: 482
+Time: 8.2977927146Hand: <JointId.HandLeft (7)> X-coord: 439 Y-coord: 515
+Time: 8.32413380878Hand: <JointId.HandRight (11)> X-coord: 657 Y-coord: 482
+Time: 8.32417766056Hand: <JointId.HandLeft (7)> X-coord: 439 Y-coord: 515
+Time: 8.33091108202Hand: <JointId.HandRight (11)> X-coord: 652 Y-coord: 447
+Time: 8.33096323008Hand: <JointId.HandLeft (7)> X-coord: 432 Y-coord: 509
+Time: 8.35996822128Hand: <JointId.HandRight (11)> X-coord: 652 Y-coord: 447
+Time: 8.36000456691Hand: <JointId.HandLeft (7)> X-coord: 432 Y-coord: 509
+Time: 8.36395004215Hand: <JointId.HandRight (11)> X-coord: 658 Y-coord: 397
+Time: 8.36398954826Hand: <JointId.HandLeft (7)> X-coord: 424 Y-coord: 509
+Time: 8.38940224885Hand: <JointId.HandRight (11)> X-coord: 658 Y-coord: 397
+Time: 8.3894362241Hand: <JointId.HandLeft (7)> X-coord: 424 Y-coord: 509
+Time: 8.39680964455Hand: <JointId.HandRight (11)> X-coord: 642 Y-coord: 374
+Time: 8.39685507657Hand: <JointId.HandLeft (7)> X-coord: 269 Y-coord: 439
+Time: 8.42128288982Hand: <JointId.HandRight (11)> X-coord: 642 Y-coord: 374
+Time: 8.42131726014Hand: <JointId.HandLeft (7)> X-coord: 269 Y-coord: 439
+Time: 8.42895813696Hand: <JointId.HandRight (11)> X-coord: 630 Y-coord: 268
+Time: 8.42901739612Hand: <JointId.HandLeft (7)> X-coord: 250 Y-coord: 400
+Time: 8.45799078243Hand: <JointId.HandRight (11)> X-coord: 630 Y-coord: 268
+Time: 8.45802515275Hand: <JointId.HandLeft (7)> X-coord: 250 Y-coord: 400
+Time: 8.46108964173Hand: <JointId.HandRight (11)> X-coord: 601 Y-coord: 245
+Time: 8.46112598736Hand: <JointId.HandLeft (7)> X-coord: 234 Y-coord: 380
+Time: 8.48668525561Hand: <JointId.HandRight (11)> X-coord: 601 Y-coord: 245
+Time: 8.48672002099Hand: <JointId.HandLeft (7)> X-coord: 234 Y-coord: 380
+Time: 8.49362173847Hand: <JointId.HandRight (11)> X-coord: 576 Y-coord: 225
+Time: 8.4936671705Hand: <JointId.HandLeft (7)> X-coord: 221 Y-coord: 361
+Time: 8.55728227985Hand: <JointId.HandRight (11)> X-coord: 576 Y-coord: 225
+Time: 8.55731586004Hand: <JointId.HandLeft (7)> X-coord: 221 Y-coord: 361
+Time: 8.56728009121Hand: <JointId.HandRight (11)> X-coord: 551 Y-coord: 136
+Time: 8.56735475776Hand: <JointId.HandLeft (7)> X-coord: 200 Y-coord: 335
+Time: 8.59348370412Hand: <JointId.HandRight (11)> X-coord: 551 Y-coord: 136
+Time: 8.59361762984Hand: <JointId.HandLeft (7)> X-coord: 200 Y-coord: 335
+Time: 8.62225047348Hand: <JointId.HandRight (11)> X-coord: 532 Y-coord: 102
+Time: 8.62232395485Hand: <JointId.HandLeft (7)> X-coord: 193 Y-coord: 333
+Time: 8.62998181929Hand: <JointId.HandRight (11)> X-coord: 532 Y-coord: 102
+Time: 8.63002567107Hand: <JointId.HandLeft (7)> X-coord: 193 Y-coord: 333
+Time: 8.63731849905Hand: <JointId.HandRight (11)> X-coord: 443 Y-coord: 42
+Time: 8.63737064712Hand: <JointId.HandLeft (7)> X-coord: 187 Y-coord: 338
+Time: 8.66055441295Hand: <JointId.HandRight (11)> X-coord: 443 Y-coord: 42
+Time: 8.66060142522Hand: <JointId.HandLeft (7)> X-coord: 187 Y-coord: 338
+Time: 8.67059054524Hand: <JointId.HandRight (11)> X-coord: 411 Y-coord: 46
+Time: 8.67064229824Hand: <JointId.HandLeft (7)> X-coord: 183 Y-coord: 345
+Time: 8.69225767149Hand: <JointId.HandRight (11)> X-coord: 411 Y-coord: 46
+Time: 8.69232680719Hand: <JointId.HandLeft (7)> X-coord: 183 Y-coord: 345
+Time: 8.70360501159Hand: <JointId.HandRight (11)> X-coord: 391 Y-coord: 19
+Time: 8.70367414728Hand: <JointId.HandLeft (7)> X-coord: 180 Y-coord: 360
+Time: 8.72700092523Hand: <JointId.HandRight (11)> X-coord: 391 Y-coord: 19
+Time: 8.72705149305Hand: <JointId.HandLeft (7)> X-coord: 180 Y-coord: 360
+Time: 8.73630777472Hand: <JointId.HandRight (11)> X-coord: 369 Y-coord: 13
+Time: 8.73636189809Hand: <JointId.HandLeft (7)> X-coord: 177 Y-coord: 377
+Time: 8.75820087593Hand: <JointId.HandRight (11)> X-coord: 369 Y-coord: 13
+Time: 8.75824472771Hand: <JointId.HandLeft (7)> X-coord: 177 Y-coord: 377
+Time: 8.76901646378Hand: <JointId.HandRight (11)> X-coord: 328 Y-coord: 56
+Time: 8.76908243898Hand: <JointId.HandLeft (7)> X-coord: 172 Y-coord: 396
+Time: 8.79455755922Hand: <JointId.HandRight (11)> X-coord: 328 Y-coord: 56
+Time: 8.79461879369Hand: <JointId.HandLeft (7)> X-coord: 172 Y-coord: 396
+Time: 8.80259191689Hand: <JointId.HandRight (11)> X-coord: 294 Y-coord: 60
+Time: 8.80265710197Hand: <JointId.HandLeft (7)> X-coord: 171 Y-coord: 419
+Time: 8.82948293613Hand: <JointId.HandRight (11)> X-coord: 294 Y-coord: 60
+Time: 8.82952757803Hand: <JointId.HandLeft (7)> X-coord: 171 Y-coord: 419
+Time: 8.83554119816Hand: <JointId.HandRight (11)> X-coord: 276 Y-coord: 78
+Time: 8.83559334622Hand: <JointId.HandLeft (7)> X-coord: 161 Y-coord: 451
+Time: 8.86121542919Hand: <JointId.HandRight (11)> X-coord: 276 Y-coord: 78
+Time: 8.86125928097Hand: <JointId.HandLeft (7)> X-coord: 161 Y-coord: 451
+Time: 8.86890647877Hand: <JointId.HandRight (11)> X-coord: 222 Y-coord: 115
+Time: 8.86895941695Hand: <JointId.HandLeft (7)> X-coord: 166 Y-coord: 496
+Time: 8.8931415022Hand: <JointId.HandRight (11)> X-coord: 222 Y-coord: 115
+Time: 8.89322130454Hand: <JointId.HandLeft (7)> X-coord: 166 Y-coord: 496
+Time: 8.90202919186Hand: <JointId.HandRight (11)> X-coord: 207 Y-coord: 147
+Time: 8.9020825251Hand: <JointId.HandLeft (7)> X-coord: 177 Y-coord: 531
+Time: 8.92793887931Hand: <JointId.HandRight (11)> X-coord: 207 Y-coord: 147
+Time: 8.92802105202Hand: <JointId.HandLeft (7)> X-coord: 177 Y-coord: 531
+Time: 8.93529649731Hand: <JointId.HandRight (11)> X-coord: 188 Y-coord: 227
+Time: 8.93538420087Hand: <JointId.HandLeft (7)> X-coord: 184 Y-coord: 552
+Time: 8.96122791312Hand: <JointId.HandRight (11)> X-coord: 188 Y-coord: 227
+Time: 8.96132588828Hand: <JointId.HandLeft (7)> X-coord: 184 Y-coord: 552
+Time: 8.96961150481Hand: <JointId.HandRight (11)> X-coord: 202 Y-coord: 285
+Time: 8.96968735654Hand: <JointId.HandLeft (7)> X-coord: 228 Y-coord: 610
+Time: 9.00233994692Hand: <JointId.HandRight (11)> X-coord: 202 Y-coord: 285
+Time: 9.00240710731Hand: <JointId.HandLeft (7)> X-coord: 228 Y-coord: 610
+Time: 9.01401005193Hand: <JointId.HandRight (11)> X-coord: 177 Y-coord: 355
+Time: 9.01409696538Hand: <JointId.HandLeft (7)> X-coord: 236 Y-coord: 632
+Time: 9.03083649448Hand: <JointId.HandRight (11)> X-coord: 177 Y-coord: 355
+Time: 9.03090997585Hand: <JointId.HandLeft (7)> X-coord: 236 Y-coord: 632
+Time: 9.03796181655Hand: <JointId.HandRight (11)> X-coord: 198 Y-coord: 367
+Time: 9.03803608804Hand: <JointId.HandLeft (7)> X-coord: 244 Y-coord: 651
+Time: 9.06516611924Hand: <JointId.HandRight (11)> X-coord: 198 Y-coord: 367
+Time: 9.06527910672Hand: <JointId.HandLeft (7)> X-coord: 244 Y-coord: 651
+Time: 9.07201766397Hand: <JointId.HandRight (11)> X-coord: 205 Y-coord: 425
+Time: 9.07208877497Hand: <JointId.HandLeft (7)> X-coord: 274 Y-coord: 660
+Time: 9.08999057384Hand: <JointId.HandRight (11)> X-coord: 205 Y-coord: 425
+Time: 9.09003126514Hand: <JointId.HandLeft (7)> X-coord: 274 Y-coord: 660
+Time: 9.09599866311Hand: <JointId.HandRight (11)> X-coord: 203 Y-coord: 468
+Time: 9.09604330502Hand: <JointId.HandLeft (7)> X-coord: 270 Y-coord: 659
+Time: 9.11860208418Hand: <JointId.HandRight (11)> X-coord: 203 Y-coord: 468
+Time: 9.11866608408Hand: <JointId.HandLeft (7)> X-coord: 270 Y-coord: 659
+Time: 9.12862320415Hand: <JointId.HandRight (11)> X-coord: 207 Y-coord: 517
+Time: 9.12865915471Hand: <JointId.HandLeft (7)> X-coord: 296 Y-coord: 666
+Time: 9.18200465066Hand: <JointId.HandRight (11)> X-coord: 207 Y-coord: 517
+Time: 9.18204850244Hand: <JointId.HandLeft (7)> X-coord: 296 Y-coord: 666
+Time: 9.19152285784Hand: <JointId.HandRight (11)> X-coord: 233 Y-coord: 600
+Time: 9.19155367261Hand: <JointId.HandLeft (7)> X-coord: 289 Y-coord: 720
+Time: 9.21941259155Hand: <JointId.HandRight (11)> X-coord: 233 Y-coord: 600
+Time: 9.21944143101Hand: <JointId.HandLeft (7)> X-coord: 289 Y-coord: 720
+Time: 9.22466808941Hand: <JointId.HandRight (11)> X-coord: 248 Y-coord: 643
+Time: 9.22471075601Hand: <JointId.HandLeft (7)> X-coord: 284 Y-coord: 744
+Time: 9.25109767728Hand: <JointId.HandRight (11)> X-coord: 248 Y-coord: 643
+Time: 9.25112730686Hand: <JointId.HandLeft (7)> X-coord: 284 Y-coord: 744
+Time: 9.25701332225Hand: <JointId.HandRight (11)> X-coord: 283 Y-coord: 655
+Time: 9.25706705056Hand: <JointId.HandLeft (7)> X-coord: 285 Y-coord: 714
+Time: 9.35042275489Hand: <JointId.HandRight (11)> X-coord: 283 Y-coord: 655
+Time: 9.35046186594Hand: <JointId.HandLeft (7)> X-coord: 285 Y-coord: 714
+Time: 9.35174186391Hand: <JointId.HandRight (11)> X-coord: 382 Y-coord: 695
+Time: 9.35176872807Hand: <JointId.HandLeft (7)> X-coord: 221 Y-coord: 656
+Time: 9.38165154504Hand: <JointId.HandRight (11)> X-coord: 382 Y-coord: 695
+Time: 9.38169105115Hand: <JointId.HandLeft (7)> X-coord: 221 Y-coord: 656
+Time: 9.38352215937Hand: <JointId.HandRight (11)> X-coord: 400 Y-coord: 705
+Time: 9.38356482597Hand: <JointId.HandLeft (7)> X-coord: 186 Y-coord: 610
+Time: 9.42104427292Hand: <JointId.HandRight (11)> X-coord: 400 Y-coord: 705
+Time: 9.42107785311Hand: <JointId.HandLeft (7)> X-coord: 186 Y-coord: 610
+Time: 9.42583833942Hand: <JointId.HandRight (11)> X-coord: 434 Y-coord: 741
+Time: 9.42588100602Hand: <JointId.HandLeft (7)> X-coord: 172 Y-coord: 563
+Time: 9.45149637294Hand: <JointId.HandRight (11)> X-coord: 434 Y-coord: 741
+Time: 9.45153192844Hand: <JointId.HandLeft (7)> X-coord: 172 Y-coord: 563
+Time: 9.45849132485Hand: <JointId.HandRight (11)> X-coord: 464 Y-coord: 744
+Time: 9.45854821365Hand: <JointId.HandLeft (7)> X-coord: 162 Y-coord: 479
+Time: 9.48568654114Hand: <JointId.HandRight (11)> X-coord: 464 Y-coord: 744
+Time: 9.48572091145Hand: <JointId.HandLeft (7)> X-coord: 162 Y-coord: 479
+Time: 9.4911198165Hand: <JointId.HandRight (11)> X-coord: 496 Y-coord: 725
+Time: 9.49116208804Hand: <JointId.HandLeft (7)> X-coord: 159 Y-coord: 412
+Time: 9.68353867293Hand: <JointId.HandRight (11)> X-coord: 496 Y-coord: 725
+Time: 9.68357264818Hand: <JointId.HandLeft (7)> X-coord: 159 Y-coord: 412
+Time: 9.68962537936Hand: <JointId.HandRight (11)> X-coord: 540 Y-coord: 625
+Time: 9.68966528053Hand: <JointId.HandLeft (7)> X-coord: 287 Y-coord: 174
+Time: 9.71973022067Hand: <JointId.HandRight (11)> X-coord: 540 Y-coord: 625
+Time: 9.71980093661Hand: <JointId.HandLeft (7)> X-coord: 287 Y-coord: 174
+Time: 9.72254463598Hand: <JointId.HandRight (11)> X-coord: 535 Y-coord: 616
+Time: 9.72258493221Hand: <JointId.HandLeft (7)> X-coord: 307 Y-coord: 157
+Time: 9.75122765238Hand: <JointId.HandRight (11)> X-coord: 535 Y-coord: 616
+Time: 9.75126162764Hand: <JointId.HandLeft (7)> X-coord: 307 Y-coord: 157
+Time: 9.75534971994Hand: <JointId.HandRight (11)> X-coord: 531 Y-coord: 615
+Time: 9.75539357172Hand: <JointId.HandLeft (7)> X-coord: 339 Y-coord: 128
+Time: 10.0191999697Hand: <JointId.HandRight (11)> X-coord: 531 Y-coord: 615
+Time: 10.0192335499Hand: <JointId.HandLeft (7)> X-coord: 339 Y-coord: 128
+Time: 10.0249994667Hand: <JointId.HandRight (11)> X-coord: 500 Y-coord: 693
+Time: 10.0250575406Hand: <JointId.HandLeft (7)> X-coord: 562 Y-coord: 299
+Time: 10.0513113263Hand: <JointId.HandRight (11)> X-coord: 500 Y-coord: 693
+Time: 10.0513397707Hand: <JointId.HandLeft (7)> X-coord: 562 Y-coord: 299
+Time: 10.0576816866Hand: <JointId.HandRight (11)> X-coord: 499 Y-coord: 698
+Time: 10.0577148718Hand: <JointId.HandLeft (7)> X-coord: 572 Y-coord: 374
+Time: 10.1519223278Hand: <JointId.HandRight (11)> X-coord: 499 Y-coord: 698
+Time: 10.1519507722Hand: <JointId.HandLeft (7)> X-coord: 572 Y-coord: 374
+Time: 10.1622970275Hand: <JointId.HandRight (11)> X-coord: 491 Y-coord: 706
+Time: 10.1623306077Hand: <JointId.HandLeft (7)> X-coord: 545 Y-coord: 533
+Time: 10.2508638011Hand: <JointId.HandRight (11)> X-coord: 491 Y-coord: 706
+Time: 10.250895406Hand: <JointId.HandLeft (7)> X-coord: 545 Y-coord: 533
+Time: 10.2566810759Hand: <JointId.HandRight (11)> X-coord: 507 Y-coord: 736
+Time: 10.2567304585Hand: <JointId.HandLeft (7)> X-coord: 519 Y-coord: 691
+Time: 10.2817050363Hand: <JointId.HandRight (11)> X-coord: 507 Y-coord: 736
+Time: 10.2817346659Hand: <JointId.HandLeft (7)> X-coord: 519 Y-coord: 691
+Time: 10.2888453707Hand: <JointId.HandRight (11)> X-coord: 507 Y-coord: 737
+Time: 10.2888813213Hand: <JointId.HandLeft (7)> X-coord: 512 Y-coord: 700
+Time: 10.3199232475Hand: <JointId.HandRight (11)> X-coord: 507 Y-coord: 737
+Time: 10.3199840869Hand: <JointId.HandLeft (7)> X-coord: 512 Y-coord: 700
+Time: 10.3218124297Hand: <JointId.HandRight (11)> X-coord: 510 Y-coord: 735
+Time: 10.3218503556Hand: <JointId.HandLeft (7)> X-coord: 501 Y-coord: 700
+Time: 10.4905888544Hand: <JointId.HandRight (11)> X-coord: 510 Y-coord: 735
+Time: 10.4906591753Hand: <JointId.HandLeft (7)> X-coord: 501 Y-coord: 700
+Time: 10.4994350626Hand: <JointId.HandRight (11)> X-coord: 530 Y-coord: 704
+Time: 10.4995132847Hand: <JointId.HandLeft (7)> X-coord: 467 Y-coord: 677
+Time: 10.5319726902Hand: <JointId.HandRight (11)> X-coord: 530 Y-coord: 704
+Time: 10.5320418259Hand: <JointId.HandLeft (7)> X-coord: 467 Y-coord: 677
+Time: 10.5439876836Hand: <JointId.HandRight (11)> X-coord: 537 Y-coord: 691
+Time: 10.5440694612Hand: <JointId.HandLeft (7)> X-coord: 467 Y-coord: 676
+Time: 10.5663513026Hand: <JointId.HandRight (11)> X-coord: 537 Y-coord: 691
+Time: 10.5664216234Hand: <JointId.HandLeft (7)> X-coord: 467 Y-coord: 676
+Time: 10.5788727643Hand: <JointId.HandRight (11)> X-coord: 536 Y-coord: 678
+Time: 10.5789663937Hand: <JointId.HandLeft (7)> X-coord: 468 Y-coord: 675
+Time: 10.598926461Hand: <JointId.HandRight (11)> X-coord: 536 Y-coord: 678
+Time: 10.5990058682Hand: <JointId.HandLeft (7)> X-coord: 468 Y-coord: 675
+Time: 10.6045339583Hand: <JointId.HandRight (11)> X-coord: 540 Y-coord: 675
+Time: 10.6046275877Hand: <JointId.HandLeft (7)> X-coord: 468 Y-coord: 672
+Time: 10.6291186108Hand: <JointId.HandRight (11)> X-coord: 540 Y-coord: 675
+Time: 10.6292007835Hand: <JointId.HandLeft (7)> X-coord: 468 Y-coord: 672
+Time: 10.6492106284Hand: <JointId.HandRight (11)> X-coord: 536 Y-coord: 666
+Time: 10.649292011Hand: <JointId.HandLeft (7)> X-coord: 471 Y-coord: 672
+Time: 10.6631495693Hand: <JointId.HandRight (11)> X-coord: 536 Y-coord: 666
+Time: 10.6632522852Hand: <JointId.HandLeft (7)> X-coord: 471 Y-coord: 672
+Time: 10.6731458005Hand: <JointId.HandRight (11)> X-coord: 536 Y-coord: 665
+Time: 10.673239825Hand: <JointId.HandLeft (7)> X-coord: 474 Y-coord: 672
+Time: 10.6978517367Hand: <JointId.HandRight (11)> X-coord: 536 Y-coord: 665
+Time: 10.6979461563Hand: <JointId.HandLeft (7)> X-coord: 474 Y-coord: 672
+Time: 10.7074829314Hand: <JointId.HandRight (11)> X-coord: 541 Y-coord: 668
+Time: 10.707577746Hand: <JointId.HandLeft (7)> X-coord: 479 Y-coord: 667
+Time: 10.7264806298Hand: <JointId.HandRight (11)> X-coord: 541 Y-coord: 668
+Time: 10.7266086296Hand: <JointId.HandLeft (7)> X-coord: 479 Y-coord: 667
+Time: 10.7325384967Hand: <JointId.HandRight (11)> X-coord: 545 Y-coord: 673
+Time: 10.7326171139Hand: <JointId.HandLeft (7)> X-coord: 485 Y-coord: 665
+Time: 11.0229854452Hand: <JointId.HandRight (11)> X-coord: 545 Y-coord: 673
+Time: 11.0230324574Hand: <JointId.HandLeft (7)> X-coord: 485 Y-coord: 665
+Time: 11.0355811783Hand: <JointId.HandRight (11)> X-coord: 600 Y-coord: 473
+Time: 11.035637277Hand: <JointId.HandLeft (7)> X-coord: 367 Y-coord: 292
+Time: 11.0561757137Hand: <JointId.HandRight (11)> X-coord: 600 Y-coord: 473
+Time: 11.056222726Hand: <JointId.HandLeft (7)> X-coord: 367 Y-coord: 292
+Time: 11.0583801547Hand: <JointId.HandRight (11)> X-coord: 597 Y-coord: 400
+Time: 11.0584299324Hand: <JointId.HandLeft (7)> X-coord: 338 Y-coord: 209
+Time: 11.1553727915Hand: <JointId.HandRight (11)> X-coord: 597 Y-coord: 400
+Time: 11.1554233593Hand: <JointId.HandLeft (7)> X-coord: 338 Y-coord: 209
+Time: 11.1639005805Hand: <JointId.HandRight (11)> X-coord: 548 Y-coord: 131
+Time: 11.1639732717Hand: <JointId.HandLeft (7)> X-coord: 241 Y-coord: 156
+Time: 11.4535514808Hand: <JointId.HandRight (11)> X-coord: 548 Y-coord: 131
+Time: 11.4536059992Hand: <JointId.HandLeft (7)> X-coord: 241 Y-coord: 156
+Time: 11.4571824874Hand: <JointId.HandRight (11)> X-coord: 329 Y-coord: 236
+Time: 11.4572397713Hand: <JointId.HandLeft (7)> X-coord: 282 Y-coord: 270
+Time: 11.5232931978Hand: <JointId.HandRight (11)> X-coord: 329 Y-coord: 236
+Time: 11.5233425804Hand: <JointId.HandLeft (7)> X-coord: 282 Y-coord: 270
+Time: 11.5319726902Hand: <JointId.HandRight (11)> X-coord: 308 Y-coord: 337
+Time: 11.5320279988Hand: <JointId.HandLeft (7)> X-coord: 235 Y-coord: 348
+Time: 11.554024606Hand: <JointId.HandRight (11)> X-coord: 308 Y-coord: 337
+Time: 11.554083075Hand: <JointId.HandLeft (7)> X-coord: 235 Y-coord: 348
+Time: 11.5650231071Hand: <JointId.HandRight (11)> X-coord: 304 Y-coord: 375
+Time: 11.5650894774Hand: <JointId.HandLeft (7)> X-coord: 208 Y-coord: 335
+Time: 11.591472053Hand: <JointId.HandRight (11)> X-coord: 304 Y-coord: 375
+Time: 11.5915194603Hand: <JointId.HandLeft (7)> X-coord: 208 Y-coord: 335
+Time: 11.598066808Hand: <JointId.HandRight (11)> X-coord: 279 Y-coord: 399
+Time: 11.5981272523Hand: <JointId.HandLeft (7)> X-coord: 199 Y-coord: 677
+Time: 11.6220375355Hand: <JointId.HandRight (11)> X-coord: 279 Y-coord: 399
+Time: 11.6221086465Hand: <JointId.HandLeft (7)> X-coord: 199 Y-coord: 677
+Time: 11.6519013896Hand: <JointId.HandRight (11)> X-coord: 283 Y-coord: 419
+Time: 11.6519725006Hand: <JointId.HandLeft (7)> X-coord: 207 Y-coord: 679
+Time: 11.6576677015Hand: <JointId.HandRight (11)> X-coord: 283 Y-coord: 419
+Time: 11.6576993064Hand: <JointId.HandLeft (7)> X-coord: 207 Y-coord: 679
+Time: 11.6644129748Hand: <JointId.HandRight (11)> X-coord: 289 Y-coord: 414
+Time: 11.6644505056Hand: <JointId.HandLeft (7)> X-coord: 243 Y-coord: 687
+Time: 11.6859501259Hand: <JointId.HandRight (11)> X-coord: 289 Y-coord: 414
+Time: 11.6859801505Hand: <JointId.HandLeft (7)> X-coord: 243 Y-coord: 687
+Time: 11.6964713932Hand: <JointId.HandRight (11)> X-coord: 293 Y-coord: 408
+Time: 11.6965188006Hand: <JointId.HandLeft (7)> X-coord: 263 Y-coord: 698
+Time: 11.8550449698Hand: <JointId.HandRight (11)> X-coord: 293 Y-coord: 408
+Time: 11.8550825006Hand: <JointId.HandLeft (7)> X-coord: 263 Y-coord: 698
+Time: 11.8637457956Hand: <JointId.HandRight (11)> X-coord: 323 Y-coord: 387
+Time: 11.8638232275Hand: <JointId.HandLeft (7)> X-coord: 255 Y-coord: 656
+Time: 12.0191458463Hand: <JointId.HandRight (11)> X-coord: 323 Y-coord: 387
+Time: 12.0191738956Hand: <JointId.HandLeft (7)> X-coord: 255 Y-coord: 656
+Time: 12.0205992761Hand: <JointId.HandRight (11)> X-coord: 228 Y-coord: 326
+Time: 12.0206213995Hand: <JointId.HandLeft (7)> X-coord: 175 Y-coord: 469
+Time: 12.1200211437Hand: <JointId.HandRight (11)> X-coord: 228 Y-coord: 326
+Time: 12.1200499831Hand: <JointId.HandLeft (7)> X-coord: 175 Y-coord: 469
+Time: 12.1243375813Hand: <JointId.HandRight (11)> X-coord: 336 Y-coord: 189
+Time: 12.1243723467Hand: <JointId.HandLeft (7)> X-coord: 213 Y-coord: 355
+Time: 12.1558255315Hand: <JointId.HandRight (11)> X-coord: 336 Y-coord: 189
+Time: 12.1558602969Hand: <JointId.HandLeft (7)> X-coord: 213 Y-coord: 355
+Time: 12.1670942545Hand: <JointId.HandRight (11)> X-coord: 373 Y-coord: 315
+Time: 12.1671863037Hand: <JointId.HandLeft (7)> X-coord: 223 Y-coord: 250
+Time: 12.1970604293Hand: <JointId.HandRight (11)> X-coord: 373 Y-coord: 315
+Time: 12.1971323305Hand: <JointId.HandLeft (7)> X-coord: 223 Y-coord: 250
+Time: 12.2012042253Hand: <JointId.HandRight (11)> X-coord: 431 Y-coord: 427
+Time: 12.2012820523Hand: <JointId.HandLeft (7)> X-coord: 268 Y-coord: 211
+Time: 12.2282192937Hand: <JointId.HandRight (11)> X-coord: 431 Y-coord: 427
+Time: 12.2283101577Hand: <JointId.HandLeft (7)> X-coord: 268 Y-coord: 211
+Time: 12.2357448127Hand: <JointId.HandRight (11)> X-coord: 462 Y-coord: 424
+Time: 12.2358423927Hand: <JointId.HandLeft (7)> X-coord: 290 Y-coord: 181
+Time: 12.2643014095Hand: <JointId.HandRight (11)> X-coord: 462 Y-coord: 424
+Time: 12.2643764711Hand: <JointId.HandLeft (7)> X-coord: 290 Y-coord: 181
+Time: 12.2698314748Hand: <JointId.HandRight (11)> X-coord: 492 Y-coord: 461
+Time: 12.2699223389Hand: <JointId.HandLeft (7)> X-coord: 312 Y-coord: 154
+Time: 12.2958719275Hand: <JointId.HandRight (11)> X-coord: 492 Y-coord: 461
+Time: 12.2959580508Hand: <JointId.HandLeft (7)> X-coord: 312 Y-coord: 154
+Time: 12.3040042603Hand: <JointId.HandRight (11)> X-coord: 578 Y-coord: 274
+Time: 12.3041018404Hand: <JointId.HandLeft (7)> X-coord: 335 Y-coord: 150
+Time: 12.3322155738Hand: <JointId.HandRight (11)> X-coord: 578 Y-coord: 274
+Time: 12.3322823391Hand: <JointId.HandLeft (7)> X-coord: 335 Y-coord: 150
+Time: 12.3389501804Hand: <JointId.HandRight (11)> X-coord: 590 Y-coord: 269
+Time: 12.3390244519Hand: <JointId.HandLeft (7)> X-coord: 349 Y-coord: 160
+Time: 12.3659371995Hand: <JointId.HandRight (11)> X-coord: 590 Y-coord: 269
+Time: 12.3660031747Hand: <JointId.HandLeft (7)> X-coord: 349 Y-coord: 160
+Time: 12.3735215826Hand: <JointId.HandRight (11)> X-coord: 590 Y-coord: 328
+Time: 12.3735994096Hand: <JointId.HandLeft (7)> X-coord: 376 Y-coord: 150
+Time: 12.39639246Hand: <JointId.HandRight (11)> X-coord: 590 Y-coord: 328
+Time: 12.3965093981Hand: <JointId.HandLeft (7)> X-coord: 376 Y-coord: 150
+Time: 12.4077480964Hand: <JointId.HandRight (11)> X-coord: 607 Y-coord: 374
+Time: 12.4078579234Hand: <JointId.HandLeft (7)> X-coord: 404 Y-coord: 166
+Time: 12.4323651439Hand: <JointId.HandRight (11)> X-coord: 607 Y-coord: 374
+Time: 12.43243665Hand: <JointId.HandLeft (7)> X-coord: 404 Y-coord: 166
+Time: 12.4418679437Hand: <JointId.HandRight (11)> X-coord: 612 Y-coord: 469
+Time: 12.4419434004Hand: <JointId.HandLeft (7)> X-coord: 425 Y-coord: 137
+Time: 12.4652713635Hand: <JointId.HandRight (11)> X-coord: 612 Y-coord: 469
+Time: 12.4653491906Hand: <JointId.HandLeft (7)> X-coord: 425 Y-coord: 137
+Time: 12.4760901119Hand: <JointId.HandRight (11)> X-coord: 636 Y-coord: 485
+Time: 12.4761639883Hand: <JointId.HandLeft (7)> X-coord: 446 Y-coord: 158
+Time: 12.500950122Hand: <JointId.HandRight (11)> X-coord: 636 Y-coord: 485
+Time: 12.5010220231Hand: <JointId.HandLeft (7)> X-coord: 446 Y-coord: 158
+Time: 12.5103450701Hand: <JointId.HandRight (11)> X-coord: 622 Y-coord: 592
+Time: 12.5104185514Hand: <JointId.HandLeft (7)> X-coord: 455 Y-coord: 190
+Time: 12.5299796069Hand: <JointId.HandRight (11)> X-coord: 622 Y-coord: 592
+Time: 12.5300440019Hand: <JointId.HandLeft (7)> X-coord: 455 Y-coord: 190
+Time: 12.5340285882Hand: <JointId.HandRight (11)> X-coord: 603 Y-coord: 649
+Time: 12.5341139214Hand: <JointId.HandLeft (7)> X-coord: 479 Y-coord: 239
+Time: 12.5619096306Hand: <JointId.HandRight (11)> X-coord: 603 Y-coord: 649
+Time: 12.5619886428Hand: <JointId.HandLeft (7)> X-coord: 479 Y-coord: 239
+Time: 12.5680753492Hand: <JointId.HandRight (11)> X-coord: 613 Y-coord: 675
+Time: 12.5681484355Hand: <JointId.HandLeft (7)> X-coord: 483 Y-coord: 277
+Time: 12.5958248362Hand: <JointId.HandRight (11)> X-coord: 613 Y-coord: 675
+Time: 12.5958987127Hand: <JointId.HandLeft (7)> X-coord: 483 Y-coord: 277
+Time: 12.6020355918Hand: <JointId.HandRight (11)> X-coord: 565 Y-coord: 677
+Time: 12.6021082831Hand: <JointId.HandLeft (7)> X-coord: 481 Y-coord: 312
+Time: 12.6291253268Hand: <JointId.HandRight (11)> X-coord: 565 Y-coord: 677
+Time: 12.6291897218Hand: <JointId.HandLeft (7)> X-coord: 481 Y-coord: 312
+Time: 12.6361949453Hand: <JointId.HandRight (11)> X-coord: 543 Y-coord: 702
+Time: 12.6362692168Hand: <JointId.HandLeft (7)> X-coord: 495 Y-coord: 353
+Time: 12.6643003823Hand: <JointId.HandRight (11)> X-coord: 543 Y-coord: 702
+Time: 12.664362802Hand: <JointId.HandLeft (7)> X-coord: 495 Y-coord: 353
+Time: 12.6703373111Hand: <JointId.HandRight (11)> X-coord: 546 Y-coord: 657
+Time: 12.6704179035Hand: <JointId.HandLeft (7)> X-coord: 481 Y-coord: 379
+Time: 12.6901010329Hand: <JointId.HandRight (11)> X-coord: 546 Y-coord: 657
+Time: 12.6901456748Hand: <JointId.HandLeft (7)> X-coord: 481 Y-coord: 379
+Time: 12.6942677424Hand: <JointId.HandRight (11)> X-coord: 544 Y-coord: 661
+Time: 12.6943183102Hand: <JointId.HandLeft (7)> X-coord: 531 Y-coord: 626
+Time: 12.8255611645Hand: <JointId.HandRight (11)> X-coord: 544 Y-coord: 661
+Time: 12.8256279299Hand: <JointId.HandLeft (7)> X-coord: 531 Y-coord: 626
+Time: 12.8302327621Hand: <JointId.HandRight (11)> X-coord: 554 Y-coord: 667
+Time: 12.830283725Hand: <JointId.HandLeft (7)> X-coord: 446 Y-coord: 656
+Time: 12.8575172622Hand: <JointId.HandRight (11)> X-coord: 554 Y-coord: 667
+Time: 12.8575496572Hand: <JointId.HandLeft (7)> X-coord: 446 Y-coord: 656
+Time: 12.8629627845Hand: <JointId.HandRight (11)> X-coord: 555 Y-coord: 666
+Time: 12.8630196733Hand: <JointId.HandLeft (7)> X-coord: 435 Y-coord: 649
+Time: 12.9558776006Hand: <JointId.HandRight (11)> X-coord: 555 Y-coord: 666
+Time: 12.9559593782Hand: <JointId.HandLeft (7)> X-coord: 435 Y-coord: 649
+Time: 12.958253103Hand: <JointId.HandRight (11)> X-coord: 532 Y-coord: 681
+Time: 12.9582819425Hand: <JointId.HandLeft (7)> X-coord: 411 Y-coord: 617
+Time: 12.9874777482Hand: <JointId.HandRight (11)> X-coord: 532 Y-coord: 681
+Time: 12.9875121185Hand: <JointId.HandLeft (7)> X-coord: 411 Y-coord: 617
+Time: 12.9902005093Hand: <JointId.HandRight (11)> X-coord: 545 Y-coord: 678
+Time: 12.9902404105Hand: <JointId.HandLeft (7)> X-coord: 404 Y-coord: 599
+Time: 13.0256359101Hand: <JointId.HandRight (11)> X-coord: 545 Y-coord: 678
+Time: 13.0256690952Hand: <JointId.HandLeft (7)> X-coord: 404 Y-coord: 599
+Time: 13.0330196021Hand: <JointId.HandRight (11)> X-coord: 564 Y-coord: 675
+Time: 13.0330772811Hand: <JointId.HandLeft (7)> X-coord: 399 Y-coord: 578
+Time: 13.0565158613Hand: <JointId.HandRight (11)> X-coord: 564 Y-coord: 675
+Time: 13.0565490464Hand: <JointId.HandLeft (7)> X-coord: 399 Y-coord: 578
+Time: 13.065513378Hand: <JointId.HandRight (11)> X-coord: 589 Y-coord: 659
+Time: 13.0655702668Hand: <JointId.HandLeft (7)> X-coord: 393 Y-coord: 559
+Time: 13.1335760852Hand: <JointId.HandRight (11)> X-coord: 589 Y-coord: 659
+Time: 13.1336645789Hand: <JointId.HandLeft (7)> X-coord: 393 Y-coord: 559
+Time: 13.139768273Hand: <JointId.HandRight (11)> X-coord: 602 Y-coord: 606
+Time: 13.1398800753Hand: <JointId.HandLeft (7)> X-coord: 388 Y-coord: 523
+Time: 13.1624819161Hand: <JointId.HandRight (11)> X-coord: 602 Y-coord: 606
+Time: 13.1625625085Hand: <JointId.HandLeft (7)> X-coord: 388 Y-coord: 523
+Time: 13.1744577984Hand: <JointId.HandRight (11)> X-coord: 601 Y-coord: 584
+Time: 13.1745387859Hand: <JointId.HandLeft (7)> X-coord: 395 Y-coord: 511
+Time: 13.2008684233Hand: <JointId.HandRight (11)> X-coord: 601 Y-coord: 584
+Time: 13.200937559Hand: <JointId.HandLeft (7)> X-coord: 395 Y-coord: 511
+Time: 13.2090544845Hand: <JointId.HandRight (11)> X-coord: 595 Y-coord: 560
+Time: 13.2091342868Hand: <JointId.HandLeft (7)> X-coord: 401 Y-coord: 501
+Time: 13.2349377028Hand: <JointId.HandRight (11)> X-coord: 595 Y-coord: 560
+Time: 13.2350384434Hand: <JointId.HandLeft (7)> X-coord: 401 Y-coord: 501
+Time: 13.2433876648Hand: <JointId.HandRight (11)> X-coord: 581 Y-coord: 538
+Time: 13.2434963066Hand: <JointId.HandLeft (7)> X-coord: 408 Y-coord: 490
+Time: 13.2573333217Hand: <JointId.HandRight (11)> X-coord: 581 Y-coord: 538
+Time: 13.2573779636Hand: <JointId.HandLeft (7)> X-coord: 408 Y-coord: 490
+Time: 13.2669277757Hand: <JointId.HandRight (11)> X-coord: 566 Y-coord: 521
+Time: 13.2669882201Hand: <JointId.HandLeft (7)> X-coord: 421 Y-coord: 472
+Time: 13.2947519293Hand: <JointId.HandRight (11)> X-coord: 566 Y-coord: 521
+Time: 13.2947981514Hand: <JointId.HandLeft (7)> X-coord: 421 Y-coord: 472
+Time: 13.2995815513Hand: <JointId.HandRight (11)> X-coord: 550 Y-coord: 500
+Time: 13.2996336993Hand: <JointId.HandLeft (7)> X-coord: 434 Y-coord: 459
+Time: 13.3259372627Hand: <JointId.HandRight (11)> X-coord: 550 Y-coord: 500
+Time: 13.3259996824Hand: <JointId.HandLeft (7)> X-coord: 434 Y-coord: 459
+Time: 13.3324549808Hand: <JointId.HandRight (11)> X-coord: 538 Y-coord: 477
+Time: 13.3325059437Hand: <JointId.HandLeft (7)> X-coord: 443 Y-coord: 452
+Time: 13.3968803605Hand: <JointId.HandRight (11)> X-coord: 538 Y-coord: 477
+Time: 13.3969514715Hand: <JointId.HandLeft (7)> X-coord: 443 Y-coord: 452
+Time: 13.4066024192Hand: <JointId.HandRight (11)> X-coord: 532 Y-coord: 450
+Time: 13.4066960487Hand: <JointId.HandLeft (7)> X-coord: 443 Y-coord: 426
+Time: 13.4366333841Hand: <JointId.HandRight (11)> X-coord: 532 Y-coord: 450
+Time: 13.4367068655Hand: <JointId.HandLeft (7)> X-coord: 443 Y-coord: 426
+Time: 13.442283548Hand: <JointId.HandRight (11)> X-coord: 551 Y-coord: 407
+Time: 13.4423795478Hand: <JointId.HandLeft (7)> X-coord: 481 Y-coord: 383
+Time: 13.4682327416Hand: <JointId.HandRight (11)> X-coord: 551 Y-coord: 407
+Time: 13.4683149143Hand: <JointId.HandLeft (7)> X-coord: 481 Y-coord: 383
+Time: 13.4770915918Hand: <JointId.HandRight (11)> X-coord: 553 Y-coord: 360
+Time: 13.4771737645Hand: <JointId.HandLeft (7)> X-coord: 489 Y-coord: 342
+Time: 13.5034504637Hand: <JointId.HandRight (11)> X-coord: 553 Y-coord: 360
+Time: 13.5035282907Hand: <JointId.HandLeft (7)> X-coord: 489 Y-coord: 342
+Time: 13.5118111418Hand: <JointId.HandRight (11)> X-coord: 574 Y-coord: 335
+Time: 13.5118996355Hand: <JointId.HandLeft (7)> X-coord: 525 Y-coord: 292
+Time: 13.5382419149Hand: <JointId.HandRight (11)> X-coord: 574 Y-coord: 335
+Time: 13.5383177666Hand: <JointId.HandLeft (7)> X-coord: 525 Y-coord: 292
+Time: 13.5458247177Hand: <JointId.HandRight (11)> X-coord: 588 Y-coord: 272
+Time: 13.5459025447Hand: <JointId.HandLeft (7)> X-coord: 540 Y-coord: 251
+Time: 13.5732929212Hand: <JointId.HandRight (11)> X-coord: 588 Y-coord: 272
+Time: 13.5733770692Hand: <JointId.HandLeft (7)> X-coord: 540 Y-coord: 251
+Time: 13.5798055035Hand: <JointId.HandRight (11)> X-coord: 617 Y-coord: 248
+Time: 13.5798959725Hand: <JointId.HandLeft (7)> X-coord: 545 Y-coord: 188
+Time: 13.6056357837Hand: <JointId.HandRight (11)> X-coord: 617 Y-coord: 248
+Time: 13.6057061046Hand: <JointId.HandLeft (7)> X-coord: 545 Y-coord: 188
+Time: 13.6144349797Hand: <JointId.HandRight (11)> X-coord: 621 Y-coord: 210
+Time: 13.6145309795Hand: <JointId.HandLeft (7)> X-coord: 563 Y-coord: 152
+Time: 13.6364473893Hand: <JointId.HandRight (11)> X-coord: 621 Y-coord: 210
+Time: 13.6365177102Hand: <JointId.HandLeft (7)> X-coord: 563 Y-coord: 152
+Time: 13.6485587776Hand: <JointId.HandRight (11)> X-coord: 638 Y-coord: 156
+Time: 13.6486397651Hand: <JointId.HandLeft (7)> X-coord: 605 Y-coord: 108
+Time: 13.6701658546Hand: <JointId.HandRight (11)> X-coord: 638 Y-coord: 156
+Time: 13.6702484223Hand: <JointId.HandLeft (7)> X-coord: 605 Y-coord: 108
+Time: 13.6991439816Hand: <JointId.HandRight (11)> X-coord: 638 Y-coord: 156
+Time: 13.6991815124Hand: <JointId.HandLeft (7)> X-coord: 605 Y-coord: 108
+Time: 13.7038562704Hand: <JointId.HandRight (11)> X-coord: 649 Y-coord: 121
+Time: 13.7039024926Hand: <JointId.HandLeft (7)> X-coord: 588 Y-coord: 93
+Time: 13.7055072308Hand: <JointId.HandRight (11)> X-coord: 653 Y-coord: 115
+Time: 13.7055372554Hand: <JointId.HandLeft (7)> X-coord: 593 Y-coord: 80
+Time: 13.7304209692Hand: <JointId.HandRight (11)> X-coord: 653 Y-coord: 115
+Time: 13.7304588951Hand: <JointId.HandLeft (7)> X-coord: 593 Y-coord: 80
+Time: 13.738287821Hand: <JointId.HandRight (11)> X-coord: 658 Y-coord: 125
+Time: 13.7383502406Hand: <JointId.HandLeft (7)> X-coord: 581 Y-coord: 91
+Time: 13.7614739572Hand: <JointId.HandRight (11)> X-coord: 658 Y-coord: 125
+Time: 13.7615126732Hand: <JointId.HandLeft (7)> X-coord: 581 Y-coord: 91
+Time: 13.7704667331Hand: <JointId.HandRight (11)> X-coord: 661 Y-coord: 129
+Time: 13.7705129552Hand: <JointId.HandLeft (7)> X-coord: 580 Y-coord: 97
+Time: 13.7965308894Hand: <JointId.HandRight (11)> X-coord: 661 Y-coord: 129
+Time: 13.7965696054Hand: <JointId.HandLeft (7)> X-coord: 580 Y-coord: 97
+Time: 13.8030821877Hand: <JointId.HandRight (11)> X-coord: 671 Y-coord: 145
+Time: 13.8031438173Hand: <JointId.HandLeft (7)> X-coord: 593 Y-coord: 87
+Time: 13.8249958321Hand: <JointId.HandRight (11)> X-coord: 671 Y-coord: 145
+Time: 13.8250479802Hand: <JointId.HandLeft (7)> X-coord: 593 Y-coord: 87
+Time: 13.8355641117Hand: <JointId.HandRight (11)> X-coord: 671 Y-coord: 145
+Time: 13.8356265314Hand: <JointId.HandLeft (7)> X-coord: 594 Y-coord: 113
+Time: 13.8583318782Hand: <JointId.HandRight (11)> X-coord: 671 Y-coord: 145
+Time: 13.8583828411Hand: <JointId.HandLeft (7)> X-coord: 594 Y-coord: 113
+Time: 13.8680796159Hand: <JointId.HandRight (11)> X-coord: 677 Y-coord: 155
+Time: 13.8681424306Hand: <JointId.HandLeft (7)> X-coord: 609 Y-coord: 140
+Time: 14.1223227697Hand: <JointId.HandRight (11)> X-coord: 677 Y-coord: 155
+Time: 14.1223618807Hand: <JointId.HandLeft (7)> X-coord: 609 Y-coord: 140
+Time: 14.1303081398Hand: <JointId.HandRight (11)> X-coord: 735 Y-coord: 680
+Time: 14.1303583125Hand: <JointId.HandLeft (7)> X-coord: 633 Y-coord: 369
+Time: 14.2973692091Hand: <JointId.HandRight (11)> X-coord: 735 Y-coord: 680
+Time: 14.2974375547Hand: <JointId.HandLeft (7)> X-coord: 633 Y-coord: 369
+Time: 14.3089207958Hand: <JointId.HandRight (11)> X-coord: 569 Y-coord: 709
+Time: 14.3089994129Hand: <JointId.HandLeft (7)> X-coord: 466 Y-coord: 659
+Time: 14.3316277229Hand: <JointId.HandRight (11)> X-coord: 569 Y-coord: 709
+Time: 14.3317229326Hand: <JointId.HandLeft (7)> X-coord: 466 Y-coord: 659
+Time: 14.3435905682Hand: <JointId.HandRight (11)> X-coord: 566 Y-coord: 693
+Time: 14.3437150124Hand: <JointId.HandLeft (7)> X-coord: 455 Y-coord: 669
+Time: 14.3641661406Hand: <JointId.HandRight (11)> X-coord: 566 Y-coord: 693
+Time: 14.3642412022Hand: <JointId.HandLeft (7)> X-coord: 455 Y-coord: 669
+Time: 14.3675605056Hand: <JointId.HandRight (11)> X-coord: 565 Y-coord: 691
+Time: 14.3676260857Hand: <JointId.HandLeft (7)> X-coord: 446 Y-coord: 668
+Time: 14.3956465847Hand: <JointId.HandRight (11)> X-coord: 565 Y-coord: 691
+Time: 14.3957485104Hand: <JointId.HandLeft (7)> X-coord: 446 Y-coord: 668
+Time: 14.4015677605Hand: <JointId.HandRight (11)> X-coord: 564 Y-coord: 689
+Time: 14.401648353Hand: <JointId.HandLeft (7)> X-coord: 441 Y-coord: 663
+Time: 14.4310969978Hand: <JointId.HandRight (11)> X-coord: 564 Y-coord: 689
+Time: 14.4311720594Hand: <JointId.HandLeft (7)> X-coord: 441 Y-coord: 663
+Time: 14.4367206926Hand: <JointId.HandRight (11)> X-coord: 561 Y-coord: 687
+Time: 14.4368190628Hand: <JointId.HandLeft (7)> X-coord: 439 Y-coord: 666
+Time: 14.4641999578Hand: <JointId.HandRight (11)> X-coord: 561 Y-coord: 687
+Time: 14.4642939824Hand: <JointId.HandLeft (7)> X-coord: 439 Y-coord: 666
+Time: 14.4711854283Hand: <JointId.HandRight (11)> X-coord: 526 Y-coord: 673
+Time: 14.4712668108Hand: <JointId.HandLeft (7)> X-coord: 439 Y-coord: 668
+Time: 14.4957139821Hand: <JointId.HandRight (11)> X-coord: 526 Y-coord: 673
+Time: 14.4958245992Hand: <JointId.HandLeft (7)> X-coord: 439 Y-coord: 668
+Time: 14.505967793Hand: <JointId.HandRight (11)> X-coord: 541 Y-coord: 698
+Time: 14.5060472003Hand: <JointId.HandLeft (7)> X-coord: 439 Y-coord: 669
+Time: 14.5329571825Hand: <JointId.HandRight (11)> X-coord: 541 Y-coord: 698
+Time: 14.5330310589Hand: <JointId.HandLeft (7)> X-coord: 439 Y-coord: 669
+Time: 14.5402322327Hand: <JointId.HandRight (11)> X-coord: 542 Y-coord: 698
+Time: 14.5403278375Hand: <JointId.HandLeft (7)> X-coord: 438 Y-coord: 668
+Time: 14.5646414781Hand: <JointId.HandRight (11)> X-coord: 542 Y-coord: 698
+Time: 14.5647366878Hand: <JointId.HandLeft (7)> X-coord: 438 Y-coord: 668
+Time: 14.5743070431Hand: <JointId.HandRight (11)> X-coord: 559 Y-coord: 712
+Time: 14.5743868454Hand: <JointId.HandLeft (7)> X-coord: 440 Y-coord: 661
+Time: 14.5986285849Hand: <JointId.HandRight (11)> X-coord: 559 Y-coord: 712
+Time: 14.5987060169Hand: <JointId.HandLeft (7)> X-coord: 440 Y-coord: 661
+Time: 14.6083668411Hand: <JointId.HandRight (11)> X-coord: 579 Y-coord: 735
+Time: 14.6084592854Hand: <JointId.HandLeft (7)> X-coord: 433 Y-coord: 649
+Time: 14.6315257181Hand: <JointId.HandRight (11)> X-coord: 579 Y-coord: 735
+Time: 14.6315944587Hand: <JointId.HandLeft (7)> X-coord: 433 Y-coord: 649
+Time: 14.6434688103Hand: <JointId.HandRight (11)> X-coord: 595 Y-coord: 723
+Time: 14.6435900941Hand: <JointId.HandLeft (7)> X-coord: 419 Y-coord: 634
+Time: 14.6647045298Hand: <JointId.HandRight (11)> X-coord: 595 Y-coord: 723
+Time: 14.6647902581Hand: <JointId.HandLeft (7)> X-coord: 419 Y-coord: 634
+Time: 14.6993490183Hand: <JointId.HandRight (11)> X-coord: 611 Y-coord: 710
+Time: 14.6994726724Hand: <JointId.HandLeft (7)> X-coord: 414 Y-coord: 633
+Time: 14.7040142949Hand: <JointId.HandRight (11)> X-coord: 611 Y-coord: 710
+Time: 14.7040755294Hand: <JointId.HandLeft (7)> X-coord: 414 Y-coord: 633
+Time: 14.7142685009Hand: <JointId.HandRight (11)> X-coord: 623 Y-coord: 694
+Time: 14.7143522539Hand: <JointId.HandLeft (7)> X-coord: 400 Y-coord: 620
+Time: 14.7261693216Hand: <JointId.HandRight (11)> X-coord: 623 Y-coord: 694
+Time: 14.7262147536Hand: <JointId.HandLeft (7)> X-coord: 400 Y-coord: 620
+Time: 14.7376663899Hand: <JointId.HandRight (11)> X-coord: 629 Y-coord: 671
+Time: 14.7377181429Hand: <JointId.HandLeft (7)> X-coord: 383 Y-coord: 607
+Time: 14.7588985538Hand: <JointId.HandRight (11)> X-coord: 629 Y-coord: 671
+Time: 14.7589858623Hand: <JointId.HandLeft (7)> X-coord: 383 Y-coord: 607
+Time: 14.7710134977Hand: <JointId.HandRight (11)> X-coord: 630 Y-coord: 645
+Time: 14.7710644605Hand: <JointId.HandLeft (7)> X-coord: 365 Y-coord: 599
+Time: 14.8958255473Hand: <JointId.HandRight (11)> X-coord: 630 Y-coord: 645
+Time: 14.8959144361Hand: <JointId.HandLeft (7)> X-coord: 365 Y-coord: 599
+Time: 14.9076682941Hand: <JointId.HandRight (11)> X-coord: 591 Y-coord: 583
+Time: 14.9077753556Hand: <JointId.HandLeft (7)> X-coord: 292 Y-coord: 599
+Time: 14.9294152227Hand: <JointId.HandRight (11)> X-coord: 591 Y-coord: 583
+Time: 14.9295033213Hand: <JointId.HandLeft (7)> X-coord: 292 Y-coord: 599
+Time: 14.9421401408Hand: <JointId.HandRight (11)> X-coord: 573 Y-coord: 585
+Time: 14.9422321901Hand: <JointId.HandLeft (7)> X-coord: 277 Y-coord: 608
+Time: 14.9657489924Hand: <JointId.HandRight (11)> X-coord: 573 Y-coord: 585
+Time: 14.9658201034Hand: <JointId.HandLeft (7)> X-coord: 277 Y-coord: 608
+Time: 14.9768486292Hand: <JointId.HandRight (11)> X-coord: 555 Y-coord: 589
+Time: 14.9769517401Hand: <JointId.HandLeft (7)> X-coord: 266 Y-coord: 618
+Time: 14.9971603008Hand: <JointId.HandRight (11)> X-coord: 555 Y-coord: 589
+Time: 14.99725235Hand: <JointId.HandLeft (7)> X-coord: 266 Y-coord: 618
+Time: 15.0008284431Hand: <JointId.HandRight (11)> X-coord: 534 Y-coord: 603
+Time: 15.0009121961Hand: <JointId.HandLeft (7)> X-coord: 254 Y-coord: 628
+Time: 15.0297125456Hand: <JointId.HandRight (11)> X-coord: 534 Y-coord: 603
+Time: 15.0297911628Hand: <JointId.HandLeft (7)> X-coord: 254 Y-coord: 628
+Time: 15.0352291789Hand: <JointId.HandRight (11)> X-coord: 510 Y-coord: 619
+Time: 15.0353239936Hand: <JointId.HandLeft (7)> X-coord: 247 Y-coord: 635
+Time: 15.0654608348Hand: <JointId.HandRight (11)> X-coord: 510 Y-coord: 619
+Time: 15.0655307606Hand: <JointId.HandLeft (7)> X-coord: 247 Y-coord: 635
+Time: 15.0695161371Hand: <JointId.HandRight (11)> X-coord: 493 Y-coord: 634
+Time: 15.0695963345Hand: <JointId.HandLeft (7)> X-coord: 241 Y-coord: 642
+Time: 15.0923870145Hand: <JointId.HandRight (11)> X-coord: 493 Y-coord: 634
+Time: 15.0924403477Hand: <JointId.HandLeft (7)> X-coord: 241 Y-coord: 642
+Time: 15.1039421567Hand: <JointId.HandRight (11)> X-coord: 482 Y-coord: 643
+Time: 15.1039966752Hand: <JointId.HandLeft (7)> X-coord: 239 Y-coord: 648
+Time: 15.12866113Hand: <JointId.HandRight (11)> X-coord: 482 Y-coord: 643
+Time: 15.1287089324Hand: <JointId.HandLeft (7)> X-coord: 239 Y-coord: 648
+Time: 15.1372292152Hand: <JointId.HandRight (11)> X-coord: 472 Y-coord: 650
+Time: 15.1372841287Hand: <JointId.HandLeft (7)> X-coord: 237 Y-coord: 653
+Time: 15.1583878979Hand: <JointId.HandRight (11)> X-coord: 472 Y-coord: 650
+Time: 15.158460194Hand: <JointId.HandLeft (7)> X-coord: 237 Y-coord: 653
+Time: 15.1702768667Hand: <JointId.HandRight (11)> X-coord: 466 Y-coord: 655
+Time: 15.1703329654Hand: <JointId.HandLeft (7)> X-coord: 236 Y-coord: 655
+Time: 15.1944711989Hand: <JointId.HandRight (11)> X-coord: 466 Y-coord: 655
+Time: 15.1945292728Hand: <JointId.HandLeft (7)> X-coord: 236 Y-coord: 655
+Time: 15.2036212091Hand: <JointId.HandRight (11)> X-coord: 459 Y-coord: 661
+Time: 15.2036773078Hand: <JointId.HandLeft (7)> X-coord: 236 Y-coord: 658
+Time: 15.2275271466Hand: <JointId.HandRight (11)> X-coord: 459 Y-coord: 661
+Time: 15.2275891712Hand: <JointId.HandLeft (7)> X-coord: 236 Y-coord: 658
+Time: 15.2364353795Hand: <JointId.HandRight (11)> X-coord: 456 Y-coord: 666
+Time: 15.2364942436Hand: <JointId.HandLeft (7)> X-coord: 237 Y-coord: 660
+Time: 15.3302442189Hand: <JointId.HandRight (11)> X-coord: 456 Y-coord: 666
+Time: 15.3303410088Hand: <JointId.HandLeft (7)> X-coord: 237 Y-coord: 660
+Time: 15.3419095832Hand: <JointId.HandRight (11)> X-coord: 457 Y-coord: 686
+Time: 15.3420024225Hand: <JointId.HandLeft (7)> X-coord: 251 Y-coord: 662
+Time: 15.3649617936Hand: <JointId.HandRight (11)> X-coord: 457 Y-coord: 686
+Time: 15.3650625342Hand: <JointId.HandLeft (7)> X-coord: 251 Y-coord: 662
+Time: 15.3764434545Hand: <JointId.HandRight (11)> X-coord: 459 Y-coord: 692
+Time: 15.3765216766Hand: <JointId.HandLeft (7)> X-coord: 253 Y-coord: 650
+Time: 15.4016274147Hand: <JointId.HandRight (11)> X-coord: 459 Y-coord: 692
+Time: 15.401713143Hand: <JointId.HandLeft (7)> X-coord: 253 Y-coord: 650
+Time: 15.4114142634Hand: <JointId.HandRight (11)> X-coord: 463 Y-coord: 702
+Time: 15.4115071028Hand: <JointId.HandLeft (7)> X-coord: 257 Y-coord: 633
+Time: 15.4343874617Hand: <JointId.HandRight (11)> X-coord: 463 Y-coord: 702
+Time: 15.4344818813Hand: <JointId.HandLeft (7)> X-coord: 257 Y-coord: 633
+Time: 15.4459117892Hand: <JointId.HandRight (11)> X-coord: 467 Y-coord: 707
+Time: 15.4459868508Hand: <JointId.HandLeft (7)> X-coord: 256 Y-coord: 614
+Time: 15.4632028236Hand: <JointId.HandRight (11)> X-coord: 467 Y-coord: 707
+Time: 15.4632774901Hand: <JointId.HandLeft (7)> X-coord: 256 Y-coord: 614
+Time: 15.4699117513Hand: <JointId.HandRight (11)> X-coord: 472 Y-coord: 711
+Time: 15.4699919487Hand: <JointId.HandLeft (7)> X-coord: 253 Y-coord: 594
+Time: 15.500310123Hand: <JointId.HandRight (11)> X-coord: 472 Y-coord: 711
+Time: 15.5003859747Hand: <JointId.HandLeft (7)> X-coord: 253 Y-coord: 594
+Time: 15.506148336Hand: <JointId.HandRight (11)> X-coord: 474 Y-coord: 714
+Time: 15.5062301136Hand: <JointId.HandLeft (7)> X-coord: 242 Y-coord: 563
+Time: 15.5318593077Hand: <JointId.HandRight (11)> X-coord: 474 Y-coord: 714
+Time: 15.5319379248Hand: <JointId.HandLeft (7)> X-coord: 242 Y-coord: 563
+Time: 15.5410211697Hand: <JointId.HandRight (11)> X-coord: 478 Y-coord: 716
+Time: 15.541100577Hand: <JointId.HandLeft (7)> X-coord: 223 Y-coord: 520
+Time: 15.5666353515Hand: <JointId.HandRight (11)> X-coord: 478 Y-coord: 716
+Time: 15.5667305612Hand: <JointId.HandLeft (7)> X-coord: 223 Y-coord: 520
+Time: 15.5753685723Hand: <JointId.HandRight (11)> X-coord: 481 Y-coord: 720
+Time: 15.5754467944Hand: <JointId.HandLeft (7)> X-coord: 204 Y-coord: 484
+Time: 15.595965478Hand: <JointId.HandRight (11)> X-coord: 481 Y-coord: 720
+Time: 15.5960555519Hand: <JointId.HandLeft (7)> X-coord: 204 Y-coord: 484
+Time: 15.6098708387Hand: <JointId.HandRight (11)> X-coord: 484 Y-coord: 721
+Time: 15.6099506411Hand: <JointId.HandLeft (7)> X-coord: 184 Y-coord: 445
+Time: 15.6288989568Hand: <JointId.HandRight (11)> X-coord: 484 Y-coord: 721
+Time: 15.628971648Hand: <JointId.HandLeft (7)> X-coord: 184 Y-coord: 445
+Time: 15.6347509969Hand: <JointId.HandRight (11)> X-coord: 487 Y-coord: 722
+Time: 15.6348323795Hand: <JointId.HandLeft (7)> X-coord: 168 Y-coord: 399
+Time: 15.662404089Hand: <JointId.HandRight (11)> X-coord: 487 Y-coord: 722
+Time: 15.6624732247Hand: <JointId.HandLeft (7)> X-coord: 168 Y-coord: 399
+Time: 15.6695701024Hand: <JointId.HandRight (11)> X-coord: 491 Y-coord: 722
+Time: 15.6696483245Hand: <JointId.HandLeft (7)> X-coord: 159 Y-coord: 358
+Time: 15.6957677894Hand: <JointId.HandRight (11)> X-coord: 491 Y-coord: 722
+Time: 15.6958772213Hand: <JointId.HandLeft (7)> X-coord: 159 Y-coord: 358
+Time: 15.7040723689Hand: <JointId.HandRight (11)> X-coord: 494 Y-coord: 721
+Time: 15.704157307Hand: <JointId.HandLeft (7)> X-coord: 154 Y-coord: 317
+Time: 15.7320182013Hand: <JointId.HandRight (11)> X-coord: 494 Y-coord: 721
+Time: 15.7321055098Hand: <JointId.HandLeft (7)> X-coord: 154 Y-coord: 317
+Time: 15.738928215Hand: <JointId.HandRight (11)> X-coord: 496 Y-coord: 716
+Time: 15.7390099927Hand: <JointId.HandLeft (7)> X-coord: 154 Y-coord: 285
+Time: 15.7628874858Hand: <JointId.HandRight (11)> X-coord: 496 Y-coord: 716
+Time: 15.7629894116Hand: <JointId.HandLeft (7)> X-coord: 154 Y-coord: 285
+Time: 15.7731669757Hand: <JointId.HandRight (11)> X-coord: 497 Y-coord: 709
+Time: 15.7732613953Hand: <JointId.HandLeft (7)> X-coord: 158 Y-coord: 265
+Time: 15.8323834748Hand: <JointId.HandRight (11)> X-coord: 497 Y-coord: 709
+Time: 15.8324581413Hand: <JointId.HandLeft (7)> X-coord: 158 Y-coord: 265
+Time: 15.8384144776Hand: <JointId.HandRight (11)> X-coord: 497 Y-coord: 704
+Time: 15.8385065268Hand: <JointId.HandLeft (7)> X-coord: 167 Y-coord: 264
+Time: 15.8680152209Hand: <JointId.HandRight (11)> X-coord: 497 Y-coord: 704
+Time: 15.8681037146Hand: <JointId.HandLeft (7)> X-coord: 167 Y-coord: 264
+Time: 15.8735634591Hand: <JointId.HandRight (11)> X-coord: 497 Y-coord: 702
+Time: 15.8736365454Hand: <JointId.HandLeft (7)> X-coord: 168 Y-coord: 279
+Time: 15.891277999Hand: <JointId.HandRight (11)> X-coord: 497 Y-coord: 702
+Time: 15.8913115792Hand: <JointId.HandLeft (7)> X-coord: 168 Y-coord: 279
+Time: 15.8970996194Hand: <JointId.HandRight (11)> X-coord: 497 Y-coord: 700
+Time: 15.8971561131Hand: <JointId.HandLeft (7)> X-coord: 164 Y-coord: 299
+Time: 15.9905896445Hand: <JointId.HandRight (11)> X-coord: 497 Y-coord: 700
+Time: 15.9906334963Hand: <JointId.HandLeft (7)> X-coord: 164 Y-coord: 299
+Time: 16.0029368842Hand: <JointId.HandRight (11)> X-coord: 508 Y-coord: 684
+Time: 16.0029878471Hand: <JointId.HandLeft (7)> X-coord: 148 Y-coord: 379
+Time: 16.0255106757Hand: <JointId.HandRight (11)> X-coord: 508 Y-coord: 684
+Time: 16.0255561078Hand: <JointId.HandLeft (7)> X-coord: 148 Y-coord: 379
+Time: 16.0357715978Hand: <JointId.HandRight (11)> X-coord: 519 Y-coord: 674
+Time: 16.0358371779Hand: <JointId.HandLeft (7)> X-coord: 145 Y-coord: 411
+Time: 16.0907637084Hand: <JointId.HandRight (11)> X-coord: 519 Y-coord: 674
+Time: 16.0908134861Hand: <JointId.HandLeft (7)> X-coord: 145 Y-coord: 411
+Time: 16.1001104591Hand: <JointId.HandRight (11)> X-coord: 538 Y-coord: 590
+Time: 16.1001630022Hand: <JointId.HandLeft (7)> X-coord: 135 Y-coord: 494
+Time: 16.1569305174Hand: <JointId.HandRight (11)> X-coord: 538 Y-coord: 590
+Time: 16.1569747643Hand: <JointId.HandLeft (7)> X-coord: 135 Y-coord: 494
+Time: 16.1646745052Hand: <JointId.HandRight (11)> X-coord: 539 Y-coord: 506
+Time: 16.1647270483Hand: <JointId.HandLeft (7)> X-coord: 126 Y-coord: 566
